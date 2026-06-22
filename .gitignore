@@ -1,0 +1,34 @@
+# ---- Heavy data files (do not version; see data/README.md) ----
+data/raw/
+*.csv
+!data/sample/*.csv
+!data/Capacidad.csv
+!results/*.csv
+
+# ---- Deliverables / Drive export (not part of the code) ----
+Proyecto-*/
+*.docx
+*.pptx
+.~lock.*#
+
+# ---- Non-reproducible models (without code that generates them) ----
+# Only reproducible .joblib models from the notebooks are versioned.
+models/all_models/
+*.pkl
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ---- Environments / IDE ----
+.vscode/
+.idea/
+.DS_Store
+
+# ---- Streamlit ----
+.streamlit/secrets.toml

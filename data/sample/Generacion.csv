@@ -1,0 +1,2001 @@
+﻿Fecha,CodigoPlanta,TipoGeneracion,TipoClasificacion,TipoDespachoRecurso,GeneracionRealEstimada,GeneracionProgramadaDespacho,GeneracionProgramadaRedespacho
+2019-12-30,2T4P,Hidraulica,Hidraulica,No Despachado Centralmente,301801.06,354240,354240
+2019-12-30,TFL1,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,MNT1,Hidraulica,Hidraulica,No Despachado Centralmente,41952.37,43200,43200
+2019-12-30,VNTA,Hidraulica,Hidraulica,No Despachado Centralmente,54232.03,40560,40560
+2019-12-30,2VJS,Solar,Solar,No Despachado Centralmente,44690.88,44690.88,44690.88
+2019-12-30,INS1,Hidraulica,Hidraulica,No Despachado Centralmente,292038.53,240000,240000
+2019-12-30,NIM1,Hidraulica,Hidraulica,No Despachado Centralmente,18935.4,0,0
+2019-12-30,2U1G,Hidraulica,Hidraulica,No Despachado Centralmente,48513.3,33600,33600
+2019-12-30,CUR1,Hidraulica,Hidraulica,No Despachado Centralmente,13251.7,14400,14400
+2019-12-30,IRG1,Cogenerador,COGENERADOR,No Despachado Centralmente,378507.53,360000,360000
+2019-12-30,RCL1,Hidraulica,Hidraulica,No Despachado Centralmente,37115.82,0,0
+2019-12-30,PRD4,Hidraulica,Hidraulica,No Despachado Centralmente,136070.66,120000,120000
+2019-12-30,TSJ2,Termica,Termica,Despachado Centralmente,3984826,4080000,4080000
+2019-12-30,FLRD,Hidraulica,Hidraulica,No Despachado Centralmente,207575.59,432000,432000
+2019-12-30,PPA2,Termica,Termica,Despachado Centralmente,1683968,1728000,1728000
+2019-12-30,SNFR,Hidraulica,FILO DE AGUA,Despachado Centralmente,814465.75,720000,790000
+2019-12-30,TCD2,Termica,Termica,Despachado Centralmente,1223378.25,1634000,1634000
+2019-12-30,CTG3,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,2UR5,Hidraulica,Hidraulica,No Despachado Centralmente,17501.7,12000,12000
+2019-12-30,ZPA2,Termica,Termica,Despachado Centralmente,692072,840000,840000
+2019-12-30,CIS1,Cogenerador,COGENERADOR,No Despachado Centralmente,27847.71,0,0
+2019-12-30,PRC3,Hidraulica,Hidraulica,Despachado Centralmente,122640.49,0,0
+2019-12-30,TGJ2,Termica,Termica,Despachado Centralmente,1266799.5,1728000,1008000
+2019-12-30,2U93,Termica,Termica,No Despachado Centralmente,465123.88,463200,463200
+2019-12-30,TBQ4,Termica,Termica,Despachado Centralmente,95677.79,816000,185000
+2019-12-30,SLV1,Hidraulica,Hidraulica,No Despachado Centralmente,8236.11,8400,8400
+2019-12-30,INC1,Cogenerador,COGENERADOR,No Despachado Centralmente,97610.4,163200,163200
+2019-12-30,NTB1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,HMIN,Hidraulica,FILO DE AGUA,Despachado Centralmente,378965.03,600000,359000
+2019-12-30,2WFN,Termica,Termica,No Despachado Centralmente,93820.46,96000,96000
+2019-12-30,SNS1,Hidraulica,Hidraulica,No Despachado Centralmente,311784,336000,336000
+2019-12-30,2V5G,Hidraulica,Hidraulica,No Despachado Centralmente,39438.4,38400,38400
+2019-12-30,SUV1,Hidraulica,Hidraulica,No Despachado Centralmente,25110,83280,83280
+2019-12-30,UNIB,Termica,AUTOGENERADOR,No Despachado Centralmente,12479.5,24000,24000
+2019-12-30,RCIO,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,PPA4,Termica,Termica,Despachado Centralmente,3867780.5,3840000,3840000
+2019-12-30,USQ1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,2UPJ,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,2UX3,Hidraulica,Hidraulica,No Despachado Centralmente,215865.8,231000,231000
+2019-12-30,TGJ1,Termica,Termica,Despachado Centralmente,2744562.5,2549480,2585160
+2019-12-30,ARG1,Termica,AUTOGENERADOR,No Despachado Centralmente,148870,71000,71000
+2019-12-30,PIC1,Cogenerador,COGENERADOR,No Despachado Centralmente,4968,4968,0
+2019-12-30,LPLO,Hidraulica,Hidraulica,No Despachado Centralmente,23252.97,24000,24000
+2019-12-30,CTG1,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,2T1L,Hidraulica,Hidraulica,No Despachado Centralmente,298060.69,348960,348960
+2019-12-30,RMR1,Hidraulica,Hidraulica,No Despachado Centralmente,52055.68,48000,48000
+2019-12-30,2YB9,Termica,AUTOGENERADOR,No Despachado Centralmente,2579.48,72000,72000
+2019-12-30,OVJ1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,CMP2,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,2V27,Termica,AUTOGENERADOR,No Despachado Centralmente,293.06,0,0
+2019-12-30,ALBG,Hidraulica,Hidraulica,Despachado Centralmente,1635604,144000,144000
+2019-12-30,CCN1,Hidraulica,Hidraulica,No Despachado Centralmente,66505,45610,45610
+2019-12-30,2TUT,Hidraulica,Hidraulica,No Despachado Centralmente,314799.69,312000,312000
+2019-12-30,HMO1,Hidraulica,Hidraulica,No Despachado Centralmente,395712,340000,340000
+2019-12-30,GE32,Termica,Termica,Despachado Centralmente,6294668,6552000,6552000
+2019-12-30,CLDR,Hidraulica,Hidraulica,No Despachado Centralmente,186538.13,289000,289000
+2019-12-30,2U5P,Termica,Termica,No Despachado Centralmente,0,0,0
+2019-12-30,2UPD,Hidraulica,Hidraulica,No Despachado Centralmente,163190.31,336000,336000
+2019-12-30,PLU1,Hidraulica,Hidraulica,No Despachado Centralmente,17525.64,19200,19200
+2019-12-30,URA1,Hidraulica,Hidraulica,Despachado Centralmente,3041649.5,3026000,3026000
+2019-12-30,PRG2,Termica,Termica,Despachado Centralmente,1040648.5,0,532530
+2019-12-30,2U8Y,Termica,Termica,No Despachado Centralmente,465243.38,463200,463200
+2019-12-30,IQU2,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,2V25,Termica,AUTOGENERADOR,No Despachado Centralmente,111286,12000,12000
+2019-12-30,SJM1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,SBA1,Hidraulica,Hidraulica,No Despachado Centralmente,43446.82,45600,45600
+2019-12-30,INZ1,Hidraulica,Hidraulica,No Despachado Centralmente,7117.04,12240,12240
+2019-12-30,NQU1,Hidraulica,Hidraulica,No Despachado Centralmente,336859.59,340500,340500
+2019-12-30,CUC1,Hidraulica,FILO DE AGUA,Despachado Centralmente,529796.75,480000,480000
+2019-12-30,TBST,Termica,Termica,Despachado Centralmente,8902794,8214720,8520570
+2019-12-30,MNC1,Hidraulica,Hidraulica,No Despachado Centralmente,15795.27,16800,16800
+2019-12-30,SNT1,Hidraulica,Hidraulica,No Despachado Centralmente,99188.19,96000,96000
+2019-12-30,TSJ1,Termica,Termica,Despachado Centralmente,3924703.5,3912000,3912000
+2019-12-30,2QEK,Hidraulica,FILO DE AGUA,Despachado Centralmente,100396.74,127000,99000
+2019-12-30,INT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,AFR1,Hidraulica,Hidraulica,No Despachado Centralmente,153144,168000,168000
+2019-12-30,LTSJ,Hidraulica,Hidraulica,Despachado Centralmente,5133.34,0,0
+2019-12-30,CMN1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,119669,98400,98400
+2019-12-30,PMR1,Hidraulica,Hidraulica,No Despachado Centralmente,11757.33,14400,14400
+2019-12-30,2S9Q,Termica,Termica,No Despachado Centralmente,4045.8,0,0
+2019-12-30,PLYS,Hidraulica,Hidraulica,Despachado Centralmente,4925420.5,4968000,4968000
+2019-12-30,TSR1,Termica,Termica,Despachado Centralmente,4858485.5,4875000,4875000
+2019-12-30,PPA1,Termica,Termica,Despachado Centralmente,839535.81,864000,864000
+2019-12-30,CIP1,Cogenerador,COGENERADOR,No Despachado Centralmente,303992,392640,392640
+2019-12-30,CQT1,Hidraulica,Hidraulica,No Despachado Centralmente,177777.88,387000,387000
+2019-12-30,RFR2,Hidraulica,Hidraulica,No Despachado Centralmente,194358,174000,174000
+2019-12-30,ESMR,Hidraulica,FILO DE AGUA,Despachado Centralmente,599383.81,528000,566000
+2019-12-30,TCD1,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,TDR1,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,QUI1,Hidraulica,Hidraulica,Despachado Centralmente,9178611,9120000,9120000
+2019-12-30,TVL1,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,JAGS,Hidraulica,Hidraulica,Despachado Centralmente,2179370.5,1968020,2124860
+2019-12-30,2QBW,Hidraulica,Hidraulica,No Despachado Centralmente,438473.88,418080,418080
+2019-12-30,COE1,Hidraulica,Hidraulica,No Despachado Centralmente,25102.99,19200,19200
+2019-12-30,2Y2T,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2019-12-30,IQU1,Hidraulica,Hidraulica,No Despachado Centralmente,45864.83,47020,47020
+2019-12-30,PTA1,Hidraulica,Hidraulica,No Despachado Centralmente,22913.5,31470,31470
+2019-12-30,ASN1,Hidraulica,Hidraulica,No Despachado Centralmente,10766.98,0,0
+2019-12-30,SJN1,Hidraulica,Hidraulica,No Despachado Centralmente,55434.84,62400,62400
+2019-12-30,PJR1,Hidraulica,Hidraulica,No Despachado Centralmente,202963.2,175200,175200
+2019-12-30,MIR1,Hidraulica,Hidraulica,No Despachado Centralmente,54905.15,60720,60720
+2019-12-30,BLL3,Hidraulica,Hidraulica,No Despachado Centralmente,6283.2,6240,6240
+2019-12-30,GEC3,Termica,Termica,Despachado Centralmente,3864959.75,3936000,3936000
+2019-12-30,JPR1,Eolica,Eolica,No Despachado Centralmente,214733.95,177990,177990
+2019-12-30,2S8S,Termica,Termica,No Despachado Centralmente,0,6000,6000
+2019-12-30,TUJ1,Hidraulica,Hidraulica,No Despachado Centralmente,106349.49,470400,470400
+2019-12-30,NAV1,Hidraulica,Hidraulica,No Despachado Centralmente,74442.66,96000,96000
+2019-12-30,2SW1,Hidraulica,Hidraulica,No Despachado Centralmente,119477.92,96000,96000
+2019-12-30,2WC5,Hidraulica,Hidraulica,No Despachado Centralmente,64594.7,96000,96000
+2019-12-30,PPN1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2019-12-30,2XXX,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2019-12-30,TBQ3,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,LCS1,Hidraulica,Hidraulica,No Despachado Centralmente,47363.94,51840,51840
+2019-12-30,2SI1,Hidraulica,Hidraulica,No Despachado Centralmente,244898,231360,231360
+2019-12-30,AYR1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,PTC1,Hidraulica,Hidraulica,No Despachado Centralmente,16240,31200,31200
+2019-12-30,JBV1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,RNG1,Hidraulica,Hidraulica,No Despachado Centralmente,54585.9,120000,120000
+2019-12-30,CRC1,Hidraulica,Hidraulica,No Despachado Centralmente,58775.56,60000,60000
+2019-12-30,CAS1,Cogenerador,COGENERADOR,No Despachado Centralmente,64734.3,72000,72000
+2019-12-30,2UPF,Hidraulica,Hidraulica,No Despachado Centralmente,161016.14,336000,336000
+2019-12-30,2YIR,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,PRDO,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2019-12-30,LMR1,Hidraulica,Hidraulica,No Despachado Centralmente,203726.63,432000,432000
+2019-12-30,2YQO,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2019-12-30,PNC1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2019-12-30,MOY1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1266396.88,1296000,1206000
+2019-12-30,PGUG,Hidraulica,Hidraulica,Despachado Centralmente,6670568.5,6497600,6084090
+2019-12-30,2SS2,Hidraulica,Hidraulica,No Despachado Centralmente,71258,48000,48000
+2019-12-30,SPY1,Hidraulica,Hidraulica,No Despachado Centralmente,37167,37200,37200
+2019-12-30,GCA1,Hidraulica,Hidraulica,No Despachado Centralmente,117237.71,119760,119760
+2019-12-30,CLL1,Hidraulica,FILO DE AGUA,Despachado Centralmente,805003.88,1440000,738000
+2019-12-30,CHBG,Hidraulica,Hidraulica,Despachado Centralmente,11003825,10306510,10621420
+2019-12-30,ILC1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2019-12-30,RPL1,Cogenerador,COGENERADOR,No Despachado Centralmente,172761.59,384000,384000
+2019-12-30,2U91,Termica,Termica,No Despachado Centralmente,460823.34,463200,463200
+2019-12-30,TYP2,Termica,Termica,Despachado Centralmente,744504,720000,720000
+2019-12-30,CGM1,Cogenerador,COGENERADOR,No Despachado Centralmente,136652,252000,252000
+2019-12-30,2S78,Hidraulica,Hidraulica,No Despachado Centralmente,5079.29,7200,7200
+2019-12-30,PRV1,Hidraulica,Hidraulica,No Despachado Centralmente,137555.34,117600,117600
+2019-12-30,2S6S,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2019-12-30,SOG1,Hidraulica,Hidraulica,Despachado Centralmente,14472790,15285000,15285000
+2019-12-30,UNN1,Hidraulica,Hidraulica,No Despachado Centralmente,15989.28,15600,15600
+2019-12-30,ZPA3,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,SNCR,Hidraulica,Hidraulica,Despachado Centralmente,865315.63,549000,699210
+2019-12-30,AMR1,Hidraulica,Hidraulica,No Despachado Centralmente,0,6720,6720
+2019-12-30,CTG2,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,CPT1,Hidraulica,Hidraulica,No Despachado Centralmente,18521.47,16800,16800
+2019-12-30,CTM2,Termica,Termica,No Despachado Centralmente,443005.66,449000,449000
+2019-12-30,RBB1,Hidraulica,Hidraulica,No Despachado Centralmente,61343.84,61440,61440
+2019-12-30,CLTJ,Cogenerador,COGENERADOR,No Despachado Centralmente,0,225600,225600
+2019-12-30,CLMG,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2019-12-30,TMB1,Termica,Termica,No Despachado Centralmente,31560,48000,48000
+2019-12-30,TYP1,Termica,Termica,No Despachado Centralmente,464482.56,472200,472200
+2019-12-30,ALTG,Hidraulica,Hidraulica,No Despachado Centralmente,195732,192000,192000
+2019-12-30,2XXR,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,2550.78,2550.78,0
+2019-12-30,SJOG,Hidraulica,Hidraulica,No Despachado Centralmente,7427.27,6960,6960
+2019-12-30,TRM1,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,GTRG,Hidraulica,Hidraulica,Despachado Centralmente,4573998.5,1269680,3067080
+2019-12-30,CIMR,Termica,Termica,No Despachado Centralmente,460861.34,456000,456000
+2019-12-30,PLM1,Hidraulica,Hidraulica,No Despachado Centralmente,164203.56,180000,180000
+2019-12-30,2S9L,Hidraulica,Hidraulica,No Despachado Centralmente,5461.52,0,0
+2019-12-30,RGR1,Hidraulica,Hidraulica,No Despachado Centralmente,8539.32,7200,7200
+2019-12-30,PRC2,Hidraulica,Hidraulica,Despachado Centralmente,45770,0,0
+2019-12-30,TEC1,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,VNTB,Hidraulica,Hidraulica,No Despachado Centralmente,24078.98,40560,40560
+2019-12-30,RMYO,Hidraulica,Hidraulica,No Despachado Centralmente,336511.09,475200,475200
+2019-12-30,CSC1,Hidraulica,Hidraulica,No Despachado Centralmente,43714.11,43200,43200
+2019-12-30,MRL1,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,CHVR,Hidraulica,Hidraulica,Despachado Centralmente,9457617,9600000,9600000
+2019-12-30,GQA1,Hidraulica,Hidraulica,No Despachado Centralmente,136598.94,149520,149520
+2019-12-30,BAR1,Hidraulica,Hidraulica,No Despachado Centralmente,353185.78,359520,359520
+2019-12-30,TMS1,Hidraulica,Hidraulica,No Despachado Centralmente,16212.14,16320,16320
+2019-12-30,RGRN,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,RFR1,Hidraulica,Hidraulica,No Despachado Centralmente,14391.82,24000,24000
+2019-12-30,2S8G,Termica,AUTOGENERADOR,No Despachado Centralmente,5941.56,5941.56,0
+2019-12-30,2R22,Hidraulica,Hidraulica,No Despachado Centralmente,203308.84,384000,384000
+2019-12-30,2QRL,Hidraulica,Hidraulica,No Despachado Centralmente,15466.77,16800,16800
+2019-12-30,2YNA,Hidraulica,Hidraulica,No Despachado Centralmente,0,102000,102000
+2019-12-30,2QV2,Hidraulica,Hidraulica,No Despachado Centralmente,242700.23,240000,240000
+2019-12-30,TPD1,Termica,Termica,No Despachado Centralmente,109186.98,90000,90000
+2019-12-30,RPD1,Hidraulica,Hidraulica,No Despachado Centralmente,234694.41,240000,240000
+2019-12-30,2SDR,Hidraulica,Hidraulica,No Despachado Centralmente,180411,208000,208000
+2019-12-30,SNC1,Hidraulica,Hidraulica,No Despachado Centralmente,16949.87,16800,16800
+2019-12-30,2S8U,Hidraulica,Hidraulica,No Despachado Centralmente,34535.97,24000,24000
+2019-12-30,PTG1,Hidraulica,Hidraulica,No Despachado Centralmente,49358.1,100800,100800
+2019-12-30,2UPH,Hidraulica,Hidraulica,No Despachado Centralmente,158476.09,336000,336000
+2019-12-30,HMLG,Hidraulica,Hidraulica,Despachado Centralmente,6330692,6828000,6828000
+2019-12-30,2UP2,Cogenerador,COGENERADOR,No Despachado Centralmente,204141.59,185000,185000
+2019-12-30,2S8I,Termica,AUTOGENERADOR,No Despachado Centralmente,205280,216000,216000
+2019-12-30,2T7D,Hidraulica,Hidraulica,No Despachado Centralmente,57885.44,103680,103680
+2019-12-30,SLVJ,Hidraulica,Hidraulica,Despachado Centralmente,3598049.5,3590000,3590000
+2019-12-30,CTM1,Termica,Termica,No Despachado Centralmente,473684.38,477600,477600
+2019-12-30,ZPA4,Termica,Termica,Despachado Centralmente,1406315,1416000,1416000
+2019-12-30,PRG1,Termica,Termica,Despachado Centralmente,523998.19,1032000,1026000
+2019-12-30,BLM1,Hidraulica,Hidraulica,No Despachado Centralmente,35043.06,69600,69600
+2019-12-30,BYN1,Hidraulica,Hidraulica,No Despachado Centralmente,8566.93,8350,8350
+2019-12-30,2W4Y,Termica,AUTOGENERADOR,No Despachado Centralmente,102917.03,24000,24000
+2019-12-30,GTPE,Hidraulica,Hidraulica,Despachado Centralmente,13246274,13440000,13440000
+2019-12-30,SRA1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,ABJ1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2019-12-30,SFC1,Hidraulica,Hidraulica,No Despachado Centralmente,4458.95,4080,4080
+2019-12-30,2S8N,Hidraulica,Hidraulica,No Despachado Centralmente,0,120000,120000
+2019-12-30,AMF1,Hidraulica,Hidraulica,No Despachado Centralmente,14655.77,15120,15120
+2019-12-30,2TUV,Hidraulica,Hidraulica,No Despachado Centralmente,308443,300000,300000
+2019-12-30,PST1,Hidraulica,Hidraulica,No Despachado Centralmente,11127.76,13440,13440
+2019-12-30,2SXQ,Cogenerador,COGENERADOR,No Despachado Centralmente,443568.94,0,0
+2019-12-30,MND1,Hidraulica,Hidraulica,No Despachado Centralmente,11494.31,9840,9840
+2019-12-30,GCC1,Hidraulica,Hidraulica,No Despachado Centralmente,16560.77,12000,12000
+2019-12-30,2TYI,Solar,AUTOGENERADOR,No Despachado Centralmente,8190,8190,8190
+2019-12-30,PTR1,Termica,Termica,No Despachado Centralmente,28.75,28.75,0
+2019-12-30,2S6U,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,117802.46,153600,153600
+2019-12-30,VLT1,Hidraulica,Hidraulica,No Despachado Centralmente,188122,180000,180000
+2019-12-30,HRD1,Hidraulica,Hidraulica,No Despachado Centralmente,310219.81,360000,360000
+2019-12-30,2S6Q,Termica,AUTOGENERADOR,No Despachado Centralmente,0,12650,12650
+2019-12-30,STG1,Hidraulica,Hidraulica,No Despachado Centralmente,22587.18,25680,25680
+2019-12-30,DVS1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1598471.88,2753000,1794000
+2019-12-30,SMI1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1138042.13,1128000,1128000
+2019-12-30,AMA1,Hidraulica,Hidraulica,No Despachado Centralmente,137228.41,139000,139000
+2019-12-30,LBR1,Hidraulica,Hidraulica,No Despachado Centralmente,62076.59,86400,86400
+2019-12-30,TFL4,Termica,Termica,Despachado Centralmente,0,0,0
+2019-12-30,BSQ1,Hidraulica,Hidraulica,No Despachado Centralmente,39167.37,38500,38500
+2019-12-30,GVIO,Hidraulica,Hidraulica,Despachado Centralmente,19758436,19838670,19858760
+2019-12-30,PPA3,Termica,Termica,Despachado Centralmente,1442826,1488000,1488000
+2019-12-30,ZPA5,Termica,Termica,Despachado Centralmente,1200236,1512000,1512000
+2019-12-30,TRN1,Termica,Termica,Despachado Centralmente,388079.59,0,369000
+2019-12-30,EPFV,Solar,Solar,Despachado Centralmente,290671.88,273000,273000
+2023-09-09,CGM1,Cogenerador,COGENERADOR,No Despachado Centralmente,357932,356000,356000
+2023-09-09,TBST,Termica,CICLO COMBINADO,Despachado Centralmente,17226874,18984000,17345000
+2023-09-09,3HF5,Solar,Solar,Despachado Centralmente,232330.52,245000,245000
+2023-09-09,3H2U,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,OVJ1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,16841.56,19200,19200
+2023-09-09,2TUV,Hidraulica,Hidraulica,No Despachado Centralmente,253258.59,264000,264000
+2023-09-09,PES1,Hidraulica,Hidraulica,Despachado Centralmente,10114928,13920000,10604000
+2023-09-09,2V27,Termica,AUTOGENERADOR,No Despachado Centralmente,549.84,9600,9600
+2023-09-09,3EP6,Solar,AUTOGENERADOR,No Despachado Centralmente,6891.72,5000,5000
+2023-09-09,LMR1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,2VJS,Solar,Solar,No Despachado Centralmente,34878.42,39000,39000
+2023-09-09,VLT1,Hidraulica,Hidraulica,No Despachado Centralmente,96934.2,98400,98400
+2023-09-09,HMIN,Hidraulica,FILO DE AGUA,Despachado Centralmente,221258.8,1320000,216000
+2023-09-09,BLM1,Hidraulica,Hidraulica,No Despachado Centralmente,34131.07,72000,72000
+2023-09-09,JBV1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,2V5G,Hidraulica,Hidraulica,No Despachado Centralmente,16838.91,24000,24000
+2023-09-09,TCD2,Termica,Termica,Despachado Centralmente,3682456,3768000,3768000
+2023-09-09,RPD1,Hidraulica,Hidraulica,No Despachado Centralmente,161708.59,144000,144000
+2023-09-09,3GJQ,Solar,Solar,No Despachado Centralmente,24113.32,23800,23800
+2023-09-09,2UPH,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,RGRN,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,AMF1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-09-09,2QV2,Hidraulica,Hidraulica,No Despachado Centralmente,85042.8,48000,48000
+2023-09-09,ALBG,Hidraulica,Hidraulica,Despachado Centralmente,1212942,462000,870000
+2023-09-09,PIC1,Cogenerador,COGENERADOR,No Despachado Centralmente,10596,10596,0
+2023-09-09,3AXV,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,31267.8,31267.8,0
+2023-09-09,RFR2,Hidraulica,Hidraulica,No Despachado Centralmente,66154.8,72000,72000
+2023-09-09,TYP1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-09-09,GQA1,Hidraulica,Hidraulica,No Despachado Centralmente,103559.52,103680,103680
+2023-09-09,TBQ3,Termica,Termica,Despachado Centralmente,1324606.38,1320000,1320000
+2023-09-09,SRA1,Hidraulica,Hidraulica,No Despachado Centralmente,0,450,450
+2023-09-09,2ZP9,Solar,Solar,No Despachado Centralmente,130099.4,96540,96540
+2023-09-09,2WC5,Hidraulica,Hidraulica,No Despachado Centralmente,25740.5,26400,26400
+2023-09-09,INC1,Cogenerador,COGENERADOR,No Despachado Centralmente,827644.63,552000,552000
+2023-09-09,CUR1,Hidraulica,Hidraulica,No Despachado Centralmente,10339.56,12000,12000
+2023-09-09,3DSO,Solar,Solar,No Despachado Centralmente,70870.62,84000,84000
+2023-09-09,TYP5,Termica,Termica,Despachado Centralmente,1108156.38,1152000,1152000
+2023-09-09,MOY1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1112940,1656000,1061000
+2023-09-09,TGJ2,Termica,Termica,Despachado Centralmente,3172865.25,3120000,3120000
+2023-09-09,PJR1,Hidraulica,Hidraulica,No Despachado Centralmente,81056.8,67200,67200
+2023-09-09,3HDE,Hidraulica,Hidraulica,No Despachado Centralmente,178951.84,315600,315600
+2023-09-09,ZPA5,Termica,Termica,Despachado Centralmente,0,0,0
+2023-09-09,ARG1,Termica,AUTOGENERADOR,No Despachado Centralmente,520,0,0
+2023-09-09,SJM1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-09-09,3AL6,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,2.37,2.37,0
+2023-09-09,TSJ1,Termica,Termica,Despachado Centralmente,3970057.25,3960000,3960000
+2023-09-09,3EE4,Eolica,Eolica,No Despachado Centralmente,379676.5,367070,367070
+2023-09-09,3HYG,Solar,Solar,No Despachado Centralmente,5543.96,7540,7540
+2023-09-09,3C3X,Termica,AUTOGENERADOR,No Despachado Centralmente,308.64,4800,4800
+2023-09-09,3E98,Solar,AUTOGENERADOR,No Despachado Centralmente,0,7200,7200
+2023-09-09,CAS1,Cogenerador,COGENERADOR,No Despachado Centralmente,26488.8,72000,72000
+2023-09-09,PPA4,Termica,Termica,Despachado Centralmente,3914151.25,3936000,3936000
+2023-09-09,2UX3,Hidraulica,Hidraulica,No Despachado Centralmente,171270.09,174500,174500
+2023-09-09,TFL1,Termica,CICLO COMBINADO,Despachado Centralmente,3270418.25,3270000,3274000
+2023-09-09,INS1,Hidraulica,Hidraulica,No Despachado Centralmente,256221.17,216000,216000
+2023-09-09,PTG1,Hidraulica,Hidraulica,No Despachado Centralmente,4619.55,24000,24000
+2023-09-09,TYP4,Termica,Termica,Despachado Centralmente,1116964,1152000,1152000
+2023-09-09,SLV1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5040.29,7200,7200
+2023-09-09,3E7C,Solar,AUTOGENERADOR,No Despachado Centralmente,12139.81,13000,13000
+2023-09-09,AMR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-09-09,3EFY,Solar,Solar,No Despachado Centralmente,132956.84,121790,121790
+2023-09-09,3HWM,Solar,Solar,No Despachado Centralmente,65578.02,0,0
+2023-09-09,3FCF,Solar,Solar,No Despachado Centralmente,48279.04,62000,62000
+2023-09-09,GTRG,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2023-09-09,SNC1,Hidraulica,Hidraulica,No Despachado Centralmente,27948.67,24000,24000
+2023-09-09,3HE8,Solar,AUTOGENERADOR,No Despachado Centralmente,2578.8,0,0
+2023-09-09,MNT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,3ENA,Termica,Termica,Despachado Centralmente,4689627,4800000,4800000
+2023-09-09,PTA1,Hidraulica,Hidraulica,No Despachado Centralmente,28048.6,24000,24000
+2023-09-09,TCD1,Termica,Termica,Despachado Centralmente,3667900.5,3768000,3768000
+2023-09-09,CUC1,Hidraulica,FILO DE AGUA,Despachado Centralmente,416729.59,1344000,428000
+2023-09-09,PPA1,Termica,Termica,Despachado Centralmente,802537.31,816000,816000
+2023-09-09,GE32,Termica,Termica,Despachado Centralmente,6326203.5,6552000,6552000
+2023-09-09,PTR1,Termica,Termica,No Despachado Centralmente,0,0,0
+2023-09-09,2S8U,Hidraulica,Hidraulica,No Despachado Centralmente,36188.68,36000,36000
+2023-09-09,PRV1,Hidraulica,Hidraulica,No Despachado Centralmente,110953.34,117600,117600
+2023-09-09,GCA1,Hidraulica,Hidraulica,No Despachado Centralmente,19492.85,84000,84000
+2023-09-09,PLU1,Hidraulica,Hidraulica,No Despachado Centralmente,16591.08,16800,16800
+2023-09-09,3HF9,Solar,Solar,No Despachado Centralmente,145849.41,131000,131000
+2023-09-09,2U93,Termica,Termica,No Despachado Centralmente,465981.94,463200,463200
+2023-09-09,JAGS,Hidraulica,Hidraulica,Despachado Centralmente,4072761,3873020,4080000
+2023-09-09,2UPJ,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,2T7D,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,11672.48,69000,69000
+2023-09-09,NIM1,Hidraulica,Hidraulica,No Despachado Centralmente,45141.6,47000,47000
+2023-09-09,PST1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,2791.66,16080,16080
+2023-09-09,CHVR,Hidraulica,Hidraulica,Despachado Centralmente,13557372,13785000,13785000
+2023-09-09,3CG9,Hidraulica,Hidraulica,No Despachado Centralmente,106765.6,336000,336000
+2023-09-09,3C4V,Termica,AUTOGENERADOR,No Despachado Centralmente,105204,24000,24000
+2023-09-09,TYP2,Termica,Termica,Despachado Centralmente,668058.13,672000,672000
+2023-09-09,2UPF,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,3A44,Solar,Solar,No Despachado Centralmente,14722.8,17510,17510
+2023-09-09,LPLO,Hidraulica,Hidraulica,No Despachado Centralmente,13441.42,14400,14400
+2023-09-09,TR2G,Solar,Solar,No Despachado Centralmente,129271.57,96730,96730
+2023-09-09,3F5L,Solar,AUTOGENERADOR,No Despachado Centralmente,5038,3560,3560
+2023-09-09,SLVJ,Hidraulica,Hidraulica,Despachado Centralmente,2689042.5,2721000,2721000
+2023-09-09,HMO1,Hidraulica,Hidraulica,No Despachado Centralmente,322284,290000,290000
+2023-09-09,CCN1,Hidraulica,Hidraulica,No Despachado Centralmente,32651,63900,63900
+2023-09-09,AFR1,Hidraulica,Hidraulica,No Despachado Centralmente,112286.38,120000,120000
+2023-09-09,GTPE,Hidraulica,Hidraulica,Despachado Centralmente,11689704,11760000,11760000
+2023-09-09,PRG1,Termica,Termica,Despachado Centralmente,741633.19,1080000,774000
+2023-09-09,PRD4,Hidraulica,Hidraulica,No Despachado Centralmente,120656.5,120000,120000
+2023-09-09,TMS1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,19976.74,20160,20160
+2023-09-09,JAG1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-09-09,SBA1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,RCIO,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,10647.21,12960,12960
+2023-09-09,2V25,Termica,AUTOGENERADOR,No Despachado Centralmente,45548,12000,12000
+2023-09-09,2T4P,Hidraulica,Hidraulica,No Despachado Centralmente,228237.36,238800,238800
+2023-09-09,3HG7,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,42.43,240,240
+2023-09-09,SMI1,Hidraulica,FILO DE AGUA,Despachado Centralmente,704611.38,1200000,700000
+2023-09-09,3EV1,Solar,Solar,No Despachado Centralmente,73394.32,62000,62000
+2023-09-09,2ZCF,Hidraulica,Hidraulica,No Despachado Centralmente,220555.16,198000,198000
+2023-09-09,TYP3,Termica,Termica,Despachado Centralmente,1005438.25,1032000,1032000
+2023-09-09,2U91,Termica,Termica,No Despachado Centralmente,469045.81,463200,463200
+2023-09-09,MRL1,Termica,Termica,Despachado Centralmente,1324760.5,1300000,1300000
+2023-09-09,NTB1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-09-09,2SW1,Hidraulica,Hidraulica,No Despachado Centralmente,68539.9,60000,60000
+2023-09-09,2S8N,Hidraulica,Hidraulica,No Despachado Centralmente,142589.66,120000,120000
+2023-09-09,3GRD,Solar,Solar,No Despachado Centralmente,78680.96,54000,54000
+2023-09-09,IQU1,Hidraulica,Hidraulica,No Despachado Centralmente,44485.6,48000,48000
+2023-09-09,LBR1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,IQU2,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,3GVK,Solar,Solar,No Despachado Centralmente,124420.5,145000,145000
+2023-09-09,2YIR,Hidraulica,Hidraulica,No Despachado Centralmente,10240.29,5040,5040
+2023-09-09,3GFQ,Solar,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,16.47,16.47,0
+2023-09-09,2S8G,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-09-09,3BZB,Solar,Solar,No Despachado Centralmente,5573.98,5000,5000
+2023-09-09,TRN1,Termica,Termica,Despachado Centralmente,1532091.88,1488000,1488000
+2023-09-09,SPY1,Hidraulica,Hidraulica,No Despachado Centralmente,30408.84,31200,31200
+2023-09-09,SFC1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,8410,8410
+2023-09-09,ZPA3,Termica,Termica,Despachado Centralmente,0,0,0
+2023-09-09,TVL1,Termica,CICLO COMBINADO,Despachado Centralmente,5611814,5736000,5736000
+2023-09-09,RMYO,Hidraulica,Hidraulica,No Despachado Centralmente,235288.56,250800,250800
+2023-09-09,2S6U,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,130703.33,126000,126000
+2023-09-09,INZ1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,8179.17,7200,7200
+2023-09-09,MIR1,Hidraulica,Hidraulica,No Despachado Centralmente,48154.59,61200,61200
+2023-09-09,TPD1,Termica,Termica,No Despachado Centralmente,40060.34,90000,90000
+2023-09-09,INT1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-09-09,AMA1,Hidraulica,Hidraulica,No Despachado Centralmente,59578.28,62000,62000
+2023-09-09,ZPA2,Termica,Termica,Despachado Centralmente,760814.88,768000,768000
+2023-09-09,TRM1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-09-09,PPA3,Termica,Termica,Despachado Centralmente,1515448,1512000,1512000
+2023-09-09,CTG1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-09-09,2YQO,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-09-09,2SDR,Hidraulica,Hidraulica,No Despachado Centralmente,135543,182400,182400
+2023-09-09,SNS1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,2TYI,Solar,AUTOGENERADOR,No Despachado Centralmente,4575.6,5000,5000
+2023-09-09,CLDR,Hidraulica,Hidraulica,No Despachado Centralmente,164743.73,110000,110000
+2023-09-09,TCDT,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-09-09,PGUG,Hidraulica,Hidraulica,Despachado Centralmente,14039016,10956660,13590170
+2023-09-09,2YNA,Hidraulica,Hidraulica,No Despachado Centralmente,40303,74400,74400
+2023-09-09,RCL1,Hidraulica,Hidraulica,No Despachado Centralmente,18386.1,0,0
+2023-09-09,CTG3,Termica,Termica,Despachado Centralmente,0,0,0
+2023-09-09,TFL4,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-09-09,CTG2,Termica,Termica,Despachado Centralmente,0,0,0
+2023-09-09,PLM1,Hidraulica,Hidraulica,No Despachado Centralmente,214090.19,196800,196800
+2023-09-09,3IJF,Termica,AUTOGENERADOR,No Despachado Centralmente,834.45,24000,24000
+2023-09-09,VNTB,Hidraulica,Hidraulica,No Despachado Centralmente,23056.49,44880,44880
+2023-09-09,3GI6,Solar,Solar,No Despachado Centralmente,485.15,440,440
+2023-09-09,3GJU,Termica,AUTOGENERADOR,No Despachado Centralmente,143511.73,12000,12000
+2023-09-09,USQ1,Hidraulica,Hidraulica,No Despachado Centralmente,0,12000,12000
+2023-09-09,ABJ1,Hidraulica,Hidraulica,No Despachado Centralmente,29488.8,0,0
+2023-09-09,2U8Y,Termica,Termica,No Despachado Centralmente,464429.69,463200,463200
+2023-09-09,PRDO,Hidraulica,Hidraulica,Despachado Centralmente,1003626.31,1008000,1008000
+2023-09-09,3EXB,Solar,Solar,No Despachado Centralmente,88805.42,73000,73000
+2023-09-09,CIS1,Cogenerador,COGENERADOR,No Despachado Centralmente,20652.72,8000,8000
+2023-09-09,SNT1,Hidraulica,Hidraulica,No Despachado Centralmente,67769.04,76800,76800
+2023-09-09,2S78,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,4596.78,5020,5020
+2023-09-09,TMB1,Termica,Termica,No Despachado Centralmente,53196,52900,52900
+2023-09-09,ZPA4,Termica,Termica,Despachado Centralmente,835029.31,840000,840000
+2023-09-09,SOG1,Hidraulica,Hidraulica,Despachado Centralmente,19642740,19656000,19656000
+2023-09-09,CMP2,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-09-09,2QRL,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,14790.33,15600,15600
+2023-09-09,GCC1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,20503.2,20640,20640
+2023-09-09,MND1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9609.59,9600,9600
+2023-09-09,2R22,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,STG1,Hidraulica,Hidraulica,No Despachado Centralmente,24225.71,27840,27840
+2023-09-09,3ED1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-09-09,TBQ4,Termica,Termica,Despachado Centralmente,1198142.5,1200000,1200000
+2023-09-09,PRG2,Termica,Termica,Despachado Centralmente,0,0,0
+2023-09-09,3GVI,Solar,Solar,No Despachado Centralmente,127300.23,149000,149000
+2023-09-09,RGR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9793.32,7200,7200
+2023-09-09,ASN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,7047.43,0,0
+2023-09-09,2UR5,Hidraulica,Hidraulica,No Despachado Centralmente,4782.6,14400,14400
+2023-09-09,HRD1,Hidraulica,Hidraulica,No Despachado Centralmente,232251.8,240000,240000
+2023-09-09,3ADA,Termica,AUTOGENERADOR,No Despachado Centralmente,2274.81,0,0
+2023-09-09,AYR1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,285681,268800,268800
+2023-09-09,ALTG,Hidraulica,Hidraulica,No Despachado Centralmente,12927.6,0,0
+2023-09-09,2S6Q,Termica,AUTOGENERADOR,No Despachado Centralmente,1231.8,0,0
+2023-09-09,BLL3,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-09-09,ESMR,Hidraulica,FILO DE AGUA,Despachado Centralmente,532869.25,552000,496000
+2023-09-09,DVS1,Hidraulica,FILO DE AGUA,Despachado Centralmente,46408.39,3576000,25000
+2023-09-09,3HF7,Solar,Solar,No Despachado Centralmente,125868.31,134000,134000
+2023-09-09,BYN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,11964.42,14400,14400
+2023-09-09,NQU1,Hidraulica,Hidraulica,No Despachado Centralmente,346772.81,338000,338000
+2023-09-09,GVIO,Hidraulica,Hidraulica,Despachado Centralmente,18735920,12593990,19615490
+2023-09-09,SUV1,Hidraulica,Hidraulica,No Despachado Centralmente,71397,98000,98000
+2023-09-09,TGJ1,Termica,Termica,Despachado Centralmente,3515903.25,3480000,3480000
+2023-09-09,3HBN,Solar,Solar,No Despachado Centralmente,41245.01,97300,97300
+2023-09-09,3HBP,Solar,Solar,No Despachado Centralmente,95075.81,197300,197300
+2023-09-09,3B4L,Solar,Solar,No Despachado Centralmente,20897.28,21220,21220
+2023-09-09,PNC1,Cogenerador,COGENERADOR,No Despachado Centralmente,373572,360000,360000
+2023-09-09,3EDL,Solar,Solar,No Despachado Centralmente,118115.5,113700,113700
+2023-09-09,CHBG,Hidraulica,Hidraulica,Despachado Centralmente,4280239.5,3179360,3720030
+2023-09-09,2UPD,Hidraulica,Hidraulica,No Despachado Centralmente,0.62,0,0
+2023-09-09,EPFV,Solar,Solar,Despachado Centralmente,495178.66,500000,500000
+2023-09-09,SNCR,Hidraulica,Hidraulica,Despachado Centralmente,3048439.75,1169440,2622800
+2023-09-09,2U5P,Termica,Termica,No Despachado Centralmente,322794,336000,336000
+2023-09-09,PTC1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,3CSH,Solar,Solar,No Despachado Centralmente,31136.94,49950,49950
+2023-09-09,3ACC,Solar,AUTOGENERADOR,No Despachado Centralmente,5768.97,5000,5000
+2023-09-09,2YWY,Termica,AUTOGENERADOR,No Despachado Centralmente,64515.47,84000,84000
+2023-09-09,3C3Z,Solar,Solar,No Despachado Centralmente,94875.99,145000,145000
+2023-09-09,3F5N,Solar,AUTOGENERADOR,No Despachado Centralmente,27.2,880,880
+2023-09-09,FLRD,Hidraulica,Hidraulica,No Despachado Centralmente,167754.19,192000,192000
+2023-09-09,TR3G,Solar,Solar,No Despachado Centralmente,130513.24,96900,96900
+2023-09-09,URA1,Hidraulica,Hidraulica,Despachado Centralmente,2991969.25,2974000,2974000
+2023-09-09,RBB1,Hidraulica,Hidraulica,No Despachado Centralmente,27179.17,48000,48000
+2023-09-09,3AQP,Hidraulica,Hidraulica,No Despachado Centralmente,4402.64,0,0
+2023-09-09,TSR1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-09-09,CRC1,Hidraulica,Hidraulica,No Despachado Centralmente,88925.44,90000,90000
+2023-09-09,PMR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,11215.44,15760,15760
+2023-09-09,3GSF,Solar,AUTOGENERADOR,No Despachado Centralmente,20786.4,11000,11000
+2023-09-09,LCS1,Hidraulica,Hidraulica,No Despachado Centralmente,23393.45,44400,44400
+2023-09-09,3DXJ,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,10350,10350
+2023-09-09,2QEK,Hidraulica,FILO DE AGUA,Despachado Centralmente,0,840000,0
+2023-09-09,TUJ1,Hidraulica,Hidraulica,No Despachado Centralmente,334686,268800,268800
+2023-09-09,LTSJ,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2023-09-09,PLYS,Hidraulica,Hidraulica,Despachado Centralmente,4917540,4968000,4968000
+2023-09-09,CLL1,Hidraulica,FILO DE AGUA,Despachado Centralmente,653047.31,1680000,658000
+2023-09-09,2TUT,Hidraulica,Hidraulica,No Despachado Centralmente,262675.19,264000,264000
+2023-09-09,3EBN,Solar,Solar,No Despachado Centralmente,57206.25,51000,51000
+2023-09-09,2S8S,Termica,Termica,No Despachado Centralmente,22391.4,6000,6000
+2023-09-09,RPL1,Cogenerador,COGENERADOR,No Despachado Centralmente,318504,384000,384000
+2023-09-09,BSQ1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,NAV1,Hidraulica,Hidraulica,No Despachado Centralmente,82640.14,72000,72000
+2023-09-09,2SS2,Hidraulica,Hidraulica,No Despachado Centralmente,50635.2,45600,45600
+2023-09-09,PRC2,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2023-09-09,BAR1,Hidraulica,Hidraulica,No Despachado Centralmente,279454.41,285600,285600
+2023-09-09,CQT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-09-09,RFR1,Hidraulica,Hidraulica,No Despachado Centralmente,14370.17,24000,24000
+2023-09-09,2U1G,Hidraulica,Hidraulica,No Despachado Centralmente,27538.1,33600,33600
+2023-09-09,VNTA,Hidraulica,Hidraulica,No Despachado Centralmente,47756.79,38160,38160
+2023-09-09,2S6S,Termica,AUTOGENERADOR,No Despachado Centralmente,123926.4,129000,129000
+2023-09-09,2SI1,Hidraulica,Hidraulica,No Despachado Centralmente,62581,96000,96000
+2023-09-09,MNC1,Hidraulica,Hidraulica,No Despachado Centralmente,25886.1,24000,24000
+2023-09-09,PPN1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2023-09-09,2YB9,Termica,AUTOGENERADOR,No Despachado Centralmente,36540.53,24000,24000
+2023-09-09,GEC3,Termica,Termica,Despachado Centralmente,0,0,0
+2023-09-09,RMR1,Hidraulica,Hidraulica,No Despachado Centralmente,18067.9,24000,24000
+2023-09-09,CPT1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,16800,16800
+2023-09-09,3FCD,Solar,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-09-09,2ZHY,Solar,Solar,No Despachado Centralmente,31301.77,33000,33000
+2023-09-09,UNN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,13800,13800
+2023-09-09,3HDG,Hidraulica,Hidraulica,No Despachado Centralmente,183694.38,331100,331100
+2023-09-09,2S9Q,Termica,Termica,No Despachado Centralmente,0,0,0
+2023-09-09,2SXQ,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2023-09-09,HMLG,Hidraulica,Hidraulica,Despachado Centralmente,9316560,7052520,7969500
+2023-09-09,JPR1,Eolica,Eolica,No Despachado Centralmente,110040.5,142260,142260
+2023-09-09,IRG1,Cogenerador,COGENERADOR,No Despachado Centralmente,272942.59,360000,360000
+2023-09-09,3HS9,Solar,AUTOGENERADOR,No Despachado Centralmente,10990.8,7000,7000
+2023-09-09,3INX,Solar,Solar,Despachado Centralmente,0,0,0
+2023-09-09,SNFR,Hidraulica,FILO DE AGUA,Despachado Centralmente,667326.81,630000,630000
+2023-09-09,COE1,Hidraulica,Hidraulica,No Despachado Centralmente,26214.5,26400,26400
+2023-09-09,CMN1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,155015.66,136800,136800
+2023-09-09,2WFN,Termica,Termica,No Despachado Centralmente,133521,120000,120000
+2023-09-09,2XXR,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,7408.51,0,0
+2023-09-09,SJN1,Hidraulica,Hidraulica,No Despachado Centralmente,0,62400,62400
+2023-09-09,RUB1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-09-09,2S8I,Termica,AUTOGENERADOR,No Despachado Centralmente,177120,180000,180000
+2023-09-09,3AFQ,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,15875.64,24000,24000
+2023-09-09,3HLD,Solar,Solar,No Despachado Centralmente,48953.6,70840,70840
+2023-09-09,CIP1,Cogenerador,COGENERADOR,No Despachado Centralmente,306632,312000,312000
+2023-09-09,2QBW,Hidraulica,Hidraulica,No Despachado Centralmente,290034.13,271680,271680
+2023-09-09,TSJ2,Termica,Termica,Despachado Centralmente,4116290.75,4080000,4080000
+2023-09-09,PRC3,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2023-09-09,2S9L,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,3689.13,10800,10800
+2023-09-09,3DDT,Solar,Solar,Despachado Centralmente,599165.94,633000,633000
+2023-09-09,CLMG,Hidraulica,Hidraulica,Despachado Centralmente,2618542.5,1682000,2342000
+2023-09-09,SJOG,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5326.2,5120,5120
+2023-09-09,3EXH,Eolica,Eolica,No Despachado Centralmente,246516.77,246750,246750
+2023-09-09,TEC1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-09-09,3HWK,Solar,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,3575.88,3575.88,0
+2023-09-09,2UP2,Cogenerador,COGENERADOR,No Despachado Centralmente,88984.8,113000,113000
+2023-09-09,3EV3,Solar,Solar,No Despachado Centralmente,72915.04,60000,60000
+2023-09-09,3GVM,Solar,Solar,No Despachado Centralmente,58562.6,65000,65000
+2023-09-09,RNG1,Hidraulica,Hidraulica,No Despachado Centralmente,0,168000,168000
+2023-09-09,2T1L,Hidraulica,Hidraulica,No Despachado Centralmente,222398.77,238800,238800
+2023-09-09,3ENE,Solar,Solar,No Despachado Centralmente,97748.75,106000,106000
+2023-09-09,TDR1,Termica,Termica,Despachado Centralmente,2455.11,1000,1000
+2023-09-09,3E9I,Hidraulica,Hidraulica,No Despachado Centralmente,105542.62,86400,86400
+2023-09-09,CSC1,Hidraulica,Hidraulica,No Despachado Centralmente,53645.02,43200,43200
+2023-09-09,3GPZ,Solar,Solar,No Despachado Centralmente,43383.41,59000,59000
+2023-09-09,3HG9,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,14.2,0,0
+2023-09-09,QUI1,Hidraulica,Hidraulica,Despachado Centralmente,9540552,9600000,9600000
+2023-09-09,PPA2,Termica,Termica,Despachado Centralmente,1491941,1584000,1584000
+2023-06-26,2TUT,Hidraulica,Hidraulica,No Despachado Centralmente,239210.3,235200,235200
+2023-06-26,RCIO,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9947.55,8640,8640
+2023-06-26,3AFQ,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,18776.34,24000,24000
+2023-06-26,3HE8,Solar,AUTOGENERADOR,No Despachado Centralmente,1711.8,0,0
+2023-06-26,OVJ1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,20977.24,19200,19200
+2023-06-26,VNTB,Hidraulica,Hidraulica,No Despachado Centralmente,51741.94,41040,41040
+2023-06-26,2UPH,Hidraulica,Hidraulica,No Despachado Centralmente,17689.83,0,0
+2023-06-26,PLU1,Hidraulica,Hidraulica,No Despachado Centralmente,4906.99,16800,16800
+2023-06-26,PES1,Hidraulica,Hidraulica,Despachado Centralmente,6475145.5,6480000,6480000
+2023-06-26,3E7C,Solar,AUTOGENERADOR,No Despachado Centralmente,6656.6,6000,6000
+2023-06-26,2YNA,Hidraulica,Hidraulica,No Despachado Centralmente,48918,74400,74400
+2023-06-26,3HWM,Solar,Solar,No Despachado Centralmente,40736.6,98600,98600
+2023-06-26,ARG1,Termica,AUTOGENERADOR,No Despachado Centralmente,20,0,0
+2023-06-26,3HF7,Solar,Solar,No Despachado Centralmente,1751.58,178400,178400
+2023-06-26,2VJS,Solar,Solar,No Despachado Centralmente,23750.1,43000,43000
+2023-06-26,3E98,Solar,AUTOGENERADOR,No Despachado Centralmente,0,7200,7200
+2023-06-26,3F5L,Solar,AUTOGENERADOR,No Despachado Centralmente,954.8,954.8,0
+2023-06-26,INC1,Cogenerador,COGENERADOR,No Despachado Centralmente,506361,504000,504000
+2023-06-26,TCD1,Termica,Termica,Despachado Centralmente,5004.81,0,0
+2023-06-26,COE1,Hidraulica,Hidraulica,No Despachado Centralmente,28124.99,26400,26400
+2023-06-26,2S6S,Termica,AUTOGENERADOR,No Despachado Centralmente,152160,124000,124000
+2023-06-26,GEC3,Termica,Termica,Despachado Centralmente,10723.02,0,0
+2023-06-26,2V5G,Hidraulica,Hidraulica,No Despachado Centralmente,58146.9,52800,52800
+2023-06-26,TYP5,Termica,Termica,Despachado Centralmente,1106747.75,1152000,1152000
+2023-06-26,3GRD,Solar,Solar,No Despachado Centralmente,35784.97,60000,60000
+2023-06-26,2S8I,Termica,AUTOGENERADOR,No Despachado Centralmente,188720,180000,180000
+2023-06-26,PMR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,15640.28,15760,15760
+2023-06-26,3EFY,Solar,Solar,No Despachado Centralmente,87841.52,98400,98400
+2023-06-26,3DSO,Solar,Solar,No Despachado Centralmente,74513.94,47270,47270
+2023-06-26,TBST,Termica,CICLO COMBINADO,Despachado Centralmente,15626618,14871630,15981800
+2023-06-26,ESMR,Hidraulica,FILO DE AGUA,Despachado Centralmente,701575.88,672000,672000
+2023-06-26,TSJ2,Termica,Termica,Despachado Centralmente,3747132.5,3576452,3775000
+2023-06-26,3GSF,Solar,AUTOGENERADOR,No Despachado Centralmente,4701.6,0,0
+2023-06-26,3AQP,Hidraulica,Hidraulica,No Despachado Centralmente,8596.72,0,0
+2023-06-26,2SW1,Hidraulica,Hidraulica,No Despachado Centralmente,146972.75,100000,100000
+2023-06-26,3FCF,Solar,Solar,No Despachado Centralmente,56420.42,43000,43000
+2023-06-26,SJN1,Hidraulica,Hidraulica,No Despachado Centralmente,0,62400,62400
+2023-06-26,TMS1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,19873.98,20400,20400
+2023-06-26,2UX3,Hidraulica,Hidraulica,No Despachado Centralmente,390534.81,207600,207600
+2023-06-26,FLRD,Hidraulica,Hidraulica,No Despachado Centralmente,317744,192000,192000
+2023-06-26,RMR1,Hidraulica,Hidraulica,No Despachado Centralmente,48161.05,46000,46000
+2023-06-26,AMA1,Hidraulica,Hidraulica,No Despachado Centralmente,107897.19,221000,221000
+2023-06-26,CHVR,Hidraulica,Hidraulica,Despachado Centralmente,13310690,13785000,13785000
+2023-06-26,2ZP9,Solar,Solar,No Despachado Centralmente,80634.94,96540,96540
+2023-06-26,RNG1,Hidraulica,Hidraulica,No Despachado Centralmente,39695.85,168000,168000
+2023-06-26,3BZB,Solar,Solar,No Despachado Centralmente,6622.91,8000,8000
+2023-06-26,3C4V,Termica,AUTOGENERADOR,No Despachado Centralmente,68108,0,0
+2023-06-26,2UPD,Hidraulica,Hidraulica,No Despachado Centralmente,50316.65,0,0
+2023-06-26,2YQO,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-26,TFL1,Termica,CICLO COMBINADO,Despachado Centralmente,1038987.25,998000,998000
+2023-06-26,TRM1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-06-26,INT1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-26,PPA1,Termica,Termica,Despachado Centralmente,462777.31,603000,536000
+2023-06-26,3A44,Solar,Solar,No Despachado Centralmente,7102.2,17510,17510
+2023-06-26,TR2G,Solar,Solar,No Despachado Centralmente,86368.83,96730,96730
+2023-06-26,2UPJ,Hidraulica,Hidraulica,No Despachado Centralmente,20830.29,0,0
+2023-06-26,ALTG,Hidraulica,Hidraulica,No Despachado Centralmente,225972,120000,120000
+2023-06-26,ZPA3,Termica,Termica,Despachado Centralmente,1193457.75,1216568,1219284
+2023-06-26,CMP2,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-26,USQ1,Hidraulica,Hidraulica,No Despachado Centralmente,25131.07,21600,21600
+2023-06-26,VLT1,Hidraulica,Hidraulica,No Despachado Centralmente,167153.8,240000,240000
+2023-06-26,ASN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,7790.88,0,0
+2023-06-26,3EE4,Eolica,Eolica,No Despachado Centralmente,196282.8,223580,223580
+2023-06-26,SPY1,Hidraulica,Hidraulica,No Despachado Centralmente,8683.92,9600,9600
+2023-06-26,JPR1,Eolica,Eolica,No Despachado Centralmente,65830.02,144620,144620
+2023-06-26,SLVJ,Hidraulica,Hidraulica,Despachado Centralmente,1612156.88,4620000,2120000
+2023-06-26,3HG9,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,10.51,0,0
+2023-06-26,3GJQ,Solar,Solar,No Despachado Centralmente,12836.01,28000,28000
+2023-06-26,SOG1,Hidraulica,Hidraulica,Despachado Centralmente,16186257,14986580,16067330
+2023-06-26,GCC1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-26,LCS1,Hidraulica,Hidraulica,No Despachado Centralmente,43744.41,45600,45600
+2023-06-26,ABJ1,Hidraulica,Hidraulica,No Despachado Centralmente,53050.8,69600,69600
+2023-06-26,VNTA,Hidraulica,Hidraulica,No Despachado Centralmente,26599.48,0,0
+2023-06-26,2SS2,Hidraulica,Hidraulica,No Despachado Centralmente,111771,84000,84000
+2023-06-26,3GVM,Solar,Solar,No Despachado Centralmente,64209.65,49000,49000
+2023-06-26,CHBG,Hidraulica,Hidraulica,Despachado Centralmente,1441800.75,1440000,1440000
+2023-06-26,2QV2,Hidraulica,Hidraulica,No Despachado Centralmente,263890.81,220000,220000
+2023-06-26,SBA1,Hidraulica,Hidraulica,No Despachado Centralmente,45710.6,38400,38400
+2023-06-26,3AXV,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,27191.7,27191.7,0
+2023-06-26,SNS1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-26,NQU1,Hidraulica,Hidraulica,No Despachado Centralmente,317906.59,324000,324000
+2023-06-26,TYP4,Termica,Termica,Despachado Centralmente,1100881.5,1152000,1152000
+2023-06-26,ZPA5,Termica,Termica,Despachado Centralmente,1355970.25,1336986,1398928
+2023-06-26,PPN1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-26,CUC1,Hidraulica,FILO DE AGUA,Despachado Centralmente,538130.75,1344000,515000
+2023-06-26,HMO1,Hidraulica,Hidraulica,No Despachado Centralmente,62435.24,0,0
+2023-06-26,SFC1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9252.02,8410,8410
+2023-06-26,SLV1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,7873.15,7200,7200
+2023-06-26,2ZHY,Solar,Solar,No Despachado Centralmente,27000.41,23000,23000
+2023-06-26,PRG1,Termica,Termica,Despachado Centralmente,727775.25,724000,749000
+2023-06-26,3DDT,Solar,Solar,Despachado Centralmente,143554.95,468000,468000
+2023-06-26,BAR1,Hidraulica,Hidraulica,No Despachado Centralmente,467431.44,465600,465600
+2023-06-26,CAS1,Cogenerador,COGENERADOR,No Despachado Centralmente,19597.5,72000,72000
+2023-06-26,RUB1,Termica,Termica,Despachado Centralmente,178185.59,175000,175000
+2023-06-26,PTA1,Hidraulica,Hidraulica,No Despachado Centralmente,21345.88,24000,24000
+2023-06-26,2U93,Termica,Termica,No Despachado Centralmente,464829.25,463200,463200
+2023-06-26,BLL3,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-26,TCDT,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,RPD1,Hidraulica,Hidraulica,No Despachado Centralmente,436815,398000,398000
+2023-06-26,2YB9,Termica,AUTOGENERADOR,No Despachado Centralmente,51719.09,24000,24000
+2023-06-26,PST1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,12266.1,15840,15840
+2023-06-26,2S8S,Termica,Termica,No Despachado Centralmente,2093.16,6000,6000
+2023-06-26,3GJU,Termica,AUTOGENERADOR,No Despachado Centralmente,96760.41,12000,12000
+2023-06-26,TUJ1,Hidraulica,Hidraulica,No Despachado Centralmente,473949.13,470400,470400
+2023-06-26,CRC1,Hidraulica,Hidraulica,No Despachado Centralmente,71246.72,90000,90000
+2023-06-26,BSQ1,Hidraulica,Hidraulica,No Despachado Centralmente,43013.85,43200,43200
+2023-06-26,3GVK,Solar,Solar,No Despachado Centralmente,138295.02,111000,111000
+2023-06-26,PJR1,Hidraulica,Hidraulica,No Despachado Centralmente,109254.2,48000,48000
+2023-06-26,RCL1,Hidraulica,Hidraulica,No Despachado Centralmente,24779.16,0,0
+2023-06-26,MRL1,Termica,Termica,Despachado Centralmente,1635661.25,1640000,1640000
+2023-06-26,TRN1,Termica,Termica,Despachado Centralmente,1597440.63,1650000,1650000
+2023-06-26,2SI1,Hidraulica,Hidraulica,No Despachado Centralmente,234171,216000,216000
+2023-06-26,HMIN,Hidraulica,FILO DE AGUA,Despachado Centralmente,1280876.63,1320000,1320000
+2023-06-26,TSR1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-06-26,SUV1,Hidraulica,Hidraulica,No Despachado Centralmente,149508,119000,119000
+2023-06-26,LBR1,Hidraulica,Hidraulica,No Despachado Centralmente,21258.9,24000,24000
+2023-06-26,2WC5,Hidraulica,Hidraulica,No Despachado Centralmente,125939.7,48000,48000
+2023-06-26,SJM1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-26,CMN1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,176018.31,187200,187200
+2023-06-26,2UR5,Hidraulica,Hidraulica,No Despachado Centralmente,10862.5,16800,16800
+2023-06-26,MIR1,Hidraulica,Hidraulica,No Despachado Centralmente,63173.25,64560,64560
+2023-06-26,3GFQ,Solar,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,14.67,14.67,0
+2023-06-26,2T1L,Hidraulica,Hidraulica,No Despachado Centralmente,451491.06,321600,321600
+2023-06-26,RFR1,Hidraulica,Hidraulica,No Despachado Centralmente,19295.45,24000,24000
+2023-06-26,3GI6,Solar,Solar,No Despachado Centralmente,397.7,440,440
+2023-06-26,3DXJ,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9338.38,10350,10350
+2023-06-26,3HS9,Solar,AUTOGENERADOR,No Despachado Centralmente,5059.95,36500,36500
+2023-06-26,TPD1,Termica,Termica,No Despachado Centralmente,22996.98,90000,90000
+2023-06-26,PPA3,Termica,Termica,Despachado Centralmente,1426854,1392000,1442000
+2023-06-26,2UPF,Hidraulica,Hidraulica,No Despachado Centralmente,16214.12,0,0
+2023-06-26,2QBW,Hidraulica,Hidraulica,No Despachado Centralmente,194275.44,456480,456480
+2023-06-26,CTG2,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,PGUG,Hidraulica,Hidraulica,Despachado Centralmente,14325965,14400000,14400000
+2023-06-26,PLYS,Hidraulica,Hidraulica,Despachado Centralmente,4915330,4968000,4968000
+2023-06-26,SNFR,Hidraulica,FILO DE AGUA,Despachado Centralmente,949620.44,810000,810000
+2023-06-26,TVL1,Termica,CICLO COMBINADO,Despachado Centralmente,1662117.25,1617000,1678000
+2023-06-26,3HBN,Solar,Solar,No Despachado Centralmente,39313.47,94500,94500
+2023-06-26,SNCR,Hidraulica,Hidraulica,Despachado Centralmente,29885968,29760000,29760000
+2023-06-26,ZPA4,Termica,Termica,Despachado Centralmente,1082626.25,1096000,1142000
+2023-06-26,2V25,Termica,AUTOGENERADOR,No Despachado Centralmente,119830,48000,48000
+2023-06-26,RGR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,7361.04,7200,7200
+2023-06-26,DVS1,Hidraulica,FILO DE AGUA,Despachado Centralmente,231426.63,3120000,228000
+2023-06-26,3CSH,Solar,Solar,No Despachado Centralmente,48605.4,49950,49950
+2023-06-26,CQT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-26,3EBN,Solar,Solar,No Despachado Centralmente,34263.79,38000,38000
+2023-06-26,2S9Q,Termica,Termica,No Despachado Centralmente,0,0,0
+2023-06-26,TBQ3,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,2U1G,Hidraulica,Hidraulica,No Despachado Centralmente,42154.3,33600,33600
+2023-06-26,CIS1,Cogenerador,COGENERADOR,No Despachado Centralmente,29056.17,25000,25000
+2023-06-26,TGJ2,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,3HF9,Solar,Solar,No Despachado Centralmente,128692.25,178400,178400
+2023-06-26,CIP1,Cogenerador,COGENERADOR,No Despachado Centralmente,310232,312000,312000
+2023-06-26,2S9L,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9850.78,10800,10800
+2023-06-26,BYN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,18528.51,14400,14400
+2023-06-26,3GPZ,Solar,Solar,No Despachado Centralmente,64025.44,57000,57000
+2023-06-26,3EV1,Solar,Solar,No Despachado Centralmente,31962.9,47000,47000
+2023-06-26,NIM1,Hidraulica,Hidraulica,No Despachado Centralmente,118595.7,126000,126000
+2023-06-26,GTRG,Hidraulica,Hidraulica,Despachado Centralmente,8026430,8397118,9748758
+2023-06-26,2S78,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,7474.15,9200,9200
+2023-06-26,SMI1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1186820.88,1200000,1123000
+2023-06-26,CLMG,Hidraulica,Hidraulica,Despachado Centralmente,0,48800,396000
+2023-06-26,2XXR,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,8022.44,0,0
+2023-06-26,TCD2,Termica,Termica,Despachado Centralmente,371819.16,325000,325000
+2023-06-26,PRG2,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,3E9I,Hidraulica,Hidraulica,No Despachado Centralmente,224084.38,115200,115200
+2023-06-26,2T4P,Hidraulica,Hidraulica,No Despachado Centralmente,449091.22,308160,308160
+2023-06-26,LMR1,Hidraulica,Hidraulica,No Despachado Centralmente,9588.61,0,0
+2023-06-26,2QRL,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,15490.92,15600,15600
+2023-06-26,INZ1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,4820.75,7200,7200
+2023-06-26,GTPE,Hidraulica,Hidraulica,Despachado Centralmente,8185152,8143444,8412410
+2023-06-26,2S8G,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-26,JAG1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,PRC2,Hidraulica,Hidraulica,Despachado Centralmente,101890,0,658990
+2023-06-26,TBQ4,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,2UP2,Cogenerador,COGENERADOR,No Despachado Centralmente,90608.4,172000,172000
+2023-06-26,PNC1,Cogenerador,COGENERADOR,No Despachado Centralmente,344808,384000,384000
+2023-06-26,3CG9,Hidraulica,Hidraulica,No Despachado Centralmente,355233.41,336000,336000
+2023-06-26,URA1,Hidraulica,Hidraulica,Despachado Centralmente,3725678.25,3700000,3700000
+2023-06-26,PRD4,Hidraulica,Hidraulica,No Despachado Centralmente,133531.48,119000,119000
+2023-06-26,IQU1,Hidraulica,Hidraulica,No Despachado Centralmente,44868.26,48000,48000
+2023-06-26,TYP2,Termica,Termica,Despachado Centralmente,726184.69,672000,672000
+2023-06-26,3C3X,Termica,AUTOGENERADOR,No Despachado Centralmente,1930.56,4800,4800
+2023-06-26,2U5P,Termica,Termica,No Despachado Centralmente,334098,336000,336000
+2023-06-26,TFL4,Termica,CICLO COMBINADO,Despachado Centralmente,4560634,4324980,4708000
+2023-06-26,GQA1,Hidraulica,Hidraulica,No Despachado Centralmente,230299.77,132240,132240
+2023-06-26,3HF5,Solar,Solar,Despachado Centralmente,0,0,0
+2023-06-26,3ADA,Termica,AUTOGENERADOR,No Despachado Centralmente,24016.68,10640,10640
+2023-06-26,3ACC,Solar,AUTOGENERADOR,No Despachado Centralmente,9075.68,2000,2000
+2023-06-26,AFR1,Hidraulica,Hidraulica,No Despachado Centralmente,163343.92,174960,174960
+2023-06-26,CPT1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,13390.59,16800,16800
+2023-06-26,3HDG,Hidraulica,Hidraulica,No Despachado Centralmente,472450.19,462000,462000
+2023-06-26,TR3G,Solar,Solar,No Despachado Centralmente,87500.42,96900,96900
+2023-06-26,LPLO,Hidraulica,Hidraulica,No Despachado Centralmente,0,14400,14400
+2023-06-26,2S6U,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,158904.23,156000,156000
+2023-06-26,TDR1,Termica,Termica,Despachado Centralmente,0.03,0,0
+2023-06-26,SNT1,Hidraulica,Hidraulica,No Despachado Centralmente,104984.88,112800,112800
+2023-06-26,PPA2,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,HMLG,Hidraulica,Hidraulica,Despachado Centralmente,770027,768000,768000
+2023-06-26,AMF1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,10800,10800
+2023-06-26,3EP6,Solar,AUTOGENERADOR,No Despachado Centralmente,5879.5,0,0
+2023-06-26,3ENA,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,PRV1,Hidraulica,Hidraulica,No Despachado Centralmente,41468.37,101090,101090
+2023-06-26,SJOG,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6448.2,5540,5540
+2023-06-26,3C3Z,Solar,Solar,No Despachado Centralmente,136690.38,144000,144000
+2023-06-26,TYP3,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,PTR1,Termica,Termica,No Despachado Centralmente,0,0,0
+2023-06-26,TEC1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-06-26,MNC1,Hidraulica,Hidraulica,No Despachado Centralmente,13476.14,16800,16800
+2023-06-26,SRA1,Hidraulica,Hidraulica,No Despachado Centralmente,15826.58,15430,15430
+2023-06-26,GVIO,Hidraulica,Hidraulica,Despachado Centralmente,4432125.5,4861490,7940440
+2023-06-26,SNC1,Hidraulica,Hidraulica,No Despachado Centralmente,26954.25,24000,24000
+2023-06-26,IRG1,Cogenerador,COGENERADOR,No Despachado Centralmente,318963.66,360000,360000
+2023-06-26,2TYI,Solar,AUTOGENERADOR,No Despachado Centralmente,7642.8,8000,8000
+2023-06-26,2YIR,Hidraulica,Hidraulica,No Despachado Centralmente,11238.03,5040,5040
+2023-06-26,UNN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,17625.93,13800,13800
+2023-06-26,RPL1,Cogenerador,COGENERADOR,No Despachado Centralmente,311376,384000,384000
+2023-06-26,3H2U,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-26,2U8Y,Termica,Termica,No Despachado Centralmente,461847.22,463200,463200
+2023-06-26,RGRN,Hidraulica,Hidraulica,No Despachado Centralmente,446332.38,304000,304000
+2023-06-26,3ENE,Solar,Solar,No Despachado Centralmente,112375.4,131000,131000
+2023-06-26,2TUV,Hidraulica,Hidraulica,No Despachado Centralmente,329011.5,470400,470400
+2023-06-26,RBB1,Hidraulica,Hidraulica,No Despachado Centralmente,62949.91,72000,72000
+2023-06-26,EPFV,Solar,Solar,Despachado Centralmente,233391.38,423000,407000
+2023-06-26,2QEK,Hidraulica,FILO DE AGUA,Despachado Centralmente,0,840000,35000
+2023-06-26,2SDR,Hidraulica,Hidraulica,No Despachado Centralmente,361137,271200,271200
+2023-06-26,PTG1,Hidraulica,Hidraulica,No Despachado Centralmente,63758.1,24000,24000
+2023-06-26,2YWY,Termica,AUTOGENERADOR,No Despachado Centralmente,64454.59,84000,84000
+2023-06-26,3HBP,Solar,Solar,No Despachado Centralmente,113678.92,192500,192500
+2023-06-26,2S8U,Hidraulica,Hidraulica,No Despachado Centralmente,35173.16,24000,24000
+2023-06-26,PPA4,Termica,Termica,Despachado Centralmente,3601345.75,3382000,3577792
+2023-06-26,3FCD,Solar,AUTOGENERADOR,No Despachado Centralmente,5338.4,0,0
+2023-06-26,3HDE,Hidraulica,Hidraulica,No Despachado Centralmente,468800.97,466900,466900
+2023-06-26,3HWK,Solar,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,0,0,0
+2023-06-26,JAGS,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2023-06-26,HRD1,Hidraulica,Hidraulica,No Despachado Centralmente,443735.59,432000,432000
+2023-06-26,2SXQ,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-26,CUR1,Hidraulica,Hidraulica,No Despachado Centralmente,12200.1,12000,12000
+2023-06-26,CGM1,Cogenerador,COGENERADOR,No Despachado Centralmente,366580,380000,380000
+2023-06-26,PRDO,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2023-06-26,RFR2,Hidraulica,Hidraulica,No Despachado Centralmente,113494.8,230000,230000
+2023-06-26,TYP1,Termica,Termica,Despachado Centralmente,322949.44,192000,192000
+2023-06-26,PRC3,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2023-06-26,3EXH,Eolica,Eolica,No Despachado Centralmente,129831.29,160240,160240
+2023-06-26,CCN1,Hidraulica,Hidraulica,No Despachado Centralmente,45816,63900,63900
+2023-06-26,3EV3,Solar,Solar,No Despachado Centralmente,25466.23,54000,54000
+2023-06-26,NTB1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-26,BLM1,Hidraulica,Hidraulica,No Despachado Centralmente,59246.41,72000,72000
+2023-06-26,2U91,Termica,Termica,No Despachado Centralmente,462022.78,463200,463200
+2023-06-26,ZPA2,Termica,Termica,Despachado Centralmente,778779.13,754300,783000
+2023-06-26,2S6Q,Termica,AUTOGENERADOR,No Despachado Centralmente,634.8,0,0
+2023-06-26,INS1,Hidraulica,Hidraulica,No Despachado Centralmente,301397.31,240000,240000
+2023-06-26,2ZCF,Hidraulica,Hidraulica,No Despachado Centralmente,467294.25,364000,364000
+2023-06-26,GE32,Termica,Termica,Despachado Centralmente,6288009,6552000,6552000
+2023-06-26,AYR1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,295658,244800,244800
+2023-06-26,TMB1,Termica,Termica,No Despachado Centralmente,62595,24000,24000
+2023-06-26,CLL1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1206213.63,1680000,1207000
+2023-06-26,3HYG,Solar,Solar,No Despachado Centralmente,2121.69,5360,5360
+2023-06-26,3EXB,Solar,Solar,No Despachado Centralmente,38786.81,69000,69000
+2023-06-26,STG1,Hidraulica,Hidraulica,No Despachado Centralmente,41975.46,39600,39600
+2023-06-26,CLDR,Hidraulica,Hidraulica,No Despachado Centralmente,389072,477600,477600
+2023-06-26,2V27,Termica,AUTOGENERADOR,No Despachado Centralmente,595.66,9600,9600
+2023-06-26,3GVI,Solar,Solar,No Despachado Centralmente,133490.59,109000,109000
+2023-06-26,3HG7,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,33.77,240,240
+2023-06-26,ALBG,Hidraulica,Hidraulica,Despachado Centralmente,4576786,3854160,5122740
+2023-06-26,NAV1,Hidraulica,Hidraulica,No Despachado Centralmente,3993.29,0,0
+2023-06-26,LTSJ,Hidraulica,Hidraulica,Despachado Centralmente,6404895.5,7344000,6630000
+2023-06-26,PLM1,Hidraulica,Hidraulica,No Despachado Centralmente,0,48000,48000
+2023-06-26,PTC1,Hidraulica,Hidraulica,No Despachado Centralmente,19078,32080,32080
+2023-06-26,MNT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-26,CSC1,Hidraulica,Hidraulica,No Despachado Centralmente,55149.7,43200,43200
+2023-06-26,3HLD,Solar,Solar,No Despachado Centralmente,37915.92,70840,70840
+2023-06-26,3EDL,Solar,Solar,No Despachado Centralmente,80739.13,90720,90720
+2023-06-26,TSJ1,Termica,Termica,Despachado Centralmente,3436897.25,3321000,3514667
+2023-06-26,TGJ1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,3AL6,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,1.02,1.02,0
+2023-06-26,IQU2,Hidraulica,Hidraulica,No Despachado Centralmente,29535.21,24000,24000
+2023-06-26,3F5N,Solar,AUTOGENERADOR,No Despachado Centralmente,12,12,0
+2023-06-26,QUI1,Hidraulica,Hidraulica,Despachado Centralmente,1942316.88,1944000,1948370
+2023-06-26,AMR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-26,2R22,Hidraulica,Hidraulica,No Despachado Centralmente,15567.47,0,0
+2023-06-26,CTG3,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-26,GCA1,Hidraulica,Hidraulica,No Despachado Centralmente,212195.47,84000,84000
+2023-06-26,PIC1,Cogenerador,COGENERADOR,No Despachado Centralmente,11022,11022,0
+2023-06-26,MOY1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1917146,1800000,1792000
+2023-06-26,2S8N,Hidraulica,Hidraulica,No Despachado Centralmente,212923.5,120000,120000
+2023-06-26,MND1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9238.92,9600,9600
+2023-06-26,RMYO,Hidraulica,Hidraulica,No Despachado Centralmente,430429.03,435600,435600
+2023-06-26,2T7D,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,53717.4,84000,84000
+2023-06-26,3B4L,Solar,Solar,No Despachado Centralmente,21504.78,21220,21220
+2023-06-26,CTG1,Termica,Termica,Despachado Centralmente,224663.28,705000,270000
+2023-06-26,3ED1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,5.5,0,0
+2023-06-26,2WFN,Termica,Termica,No Despachado Centralmente,143090,0,0
+2023-06-01,INZ1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,97.25,7200,7200
+2023-06-01,INC1,Cogenerador,COGENERADOR,No Despachado Centralmente,486157.31,368000,368000
+2023-06-01,PPA1,Termica,Termica,Despachado Centralmente,693677.69,696000,696000
+2023-06-01,3ENA,Termica,Termica,Despachado Centralmente,2059911.13,2033000,2033000
+2023-06-01,2V25,Termica,AUTOGENERADOR,No Despachado Centralmente,37578,12000,12000
+2023-06-01,PTG1,Hidraulica,Hidraulica,No Despachado Centralmente,97718.1,24000,24000
+2023-06-01,3HDG,Hidraulica,Hidraulica,No Despachado Centralmente,471815.44,460800,460800
+2023-06-01,PRD4,Hidraulica,Hidraulica,No Despachado Centralmente,135603.58,116000,116000
+2023-06-01,3EV1,Solar,Solar,No Despachado Centralmente,45001.01,51000,51000
+2023-06-01,TSR1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-06-01,LPLO,Hidraulica,Hidraulica,No Despachado Centralmente,23050.55,14400,14400
+2023-06-01,3GSF,Solar,AUTOGENERADOR,No Despachado Centralmente,1231.2,6000,6000
+2023-06-01,2WFN,Termica,Termica,No Despachado Centralmente,155513,96000,96000
+2023-06-01,PIC1,Cogenerador,COGENERADOR,No Despachado Centralmente,13674,13674,0
+2023-06-01,2UX3,Hidraulica,Hidraulica,No Despachado Centralmente,224094.91,312000,312000
+2023-06-01,TGJ2,Termica,Termica,Despachado Centralmente,2232475.5,3480000,2160000
+2023-06-01,3GVK,Solar,Solar,No Despachado Centralmente,114988.88,172000,172000
+2023-06-01,2T1L,Hidraulica,Hidraulica,No Despachado Centralmente,441768.53,238800,238800
+2023-06-01,PPA4,Termica,Termica,Despachado Centralmente,325808,321000,321000
+2023-06-01,2S6U,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,155985.95,156000,156000
+2023-06-01,RNG1,Hidraulica,Hidraulica,No Despachado Centralmente,205078.5,168000,168000
+2023-06-01,ALTG,Hidraulica,Hidraulica,No Despachado Centralmente,242542.8,172000,172000
+2023-06-01,3FCD,Solar,AUTOGENERADOR,No Despachado Centralmente,1037.94,5000,5000
+2023-06-01,ZPA2,Termica,Termica,Despachado Centralmente,317405.5,312000,312000
+2023-06-01,ESMR,Hidraulica,FILO DE AGUA,Despachado Centralmente,723298.81,672000,672000
+2023-06-01,CMP2,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-01,SFC1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,8269.15,8410,8410
+2023-06-01,3BZB,Solar,Solar,No Despachado Centralmente,5543.1,6000,6000
+2023-06-01,HMLG,Hidraulica,Hidraulica,Despachado Centralmente,1644704.13,1745000,1745000
+2023-06-01,RFR2,Hidraulica,Hidraulica,No Despachado Centralmente,185204.41,230000,230000
+2023-06-01,2S9L,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,10800,10800
+2023-06-01,3HDE,Hidraulica,Hidraulica,No Despachado Centralmente,469887.97,463900,463900
+2023-06-01,2R22,Hidraulica,Hidraulica,No Despachado Centralmente,430020.41,432000,432000
+2023-06-01,2T7D,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,62070.5,57500,57500
+2023-06-01,PLU1,Hidraulica,Hidraulica,No Despachado Centralmente,4916.45,16800,16800
+2023-06-01,LTSJ,Hidraulica,Hidraulica,Despachado Centralmente,4885319,4896000,4896000
+2023-06-01,3ENE,Solar,Solar,No Despachado Centralmente,83131.98,89000,89000
+2023-06-01,VNTB,Hidraulica,Hidraulica,No Despachado Centralmente,41855.48,41040,41040
+2023-06-01,FLRD,Hidraulica,Hidraulica,No Despachado Centralmente,353639,192000,192000
+2023-06-01,AFR1,Hidraulica,Hidraulica,No Despachado Centralmente,174855.59,174960,174960
+2023-06-01,TYP5,Termica,Termica,Despachado Centralmente,1106477.5,1152000,1152000
+2023-06-01,TYP3,Termica,Termica,Despachado Centralmente,1104770.75,1152000,1152000
+2023-06-01,TYP2,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,MNT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-01,2YIR,Hidraulica,Hidraulica,No Despachado Centralmente,10100.68,5040,5040
+2023-06-01,2QEK,Hidraulica,FILO DE AGUA,Despachado Centralmente,269107.13,776450,270000
+2023-06-01,AYR1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-01,2WC5,Hidraulica,Hidraulica,No Despachado Centralmente,165800.41,144000,144000
+2023-06-01,MOY1,Hidraulica,FILO DE AGUA,Despachado Centralmente,394852.06,1766910,300000
+2023-06-01,RFR1,Hidraulica,Hidraulica,No Despachado Centralmente,24524.89,24000,24000
+2023-06-01,2UP2,Cogenerador,COGENERADOR,No Despachado Centralmente,31006.8,0,0
+2023-06-01,PJR1,Hidraulica,Hidraulica,No Despachado Centralmente,232815,230400,230400
+2023-06-01,QUI1,Hidraulica,Hidraulica,Despachado Centralmente,2560951.75,2422720,3535150
+2023-06-01,CIS1,Cogenerador,COGENERADOR,No Despachado Centralmente,28468.77,27000,27000
+2023-06-01,TEC1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-06-01,SNC1,Hidraulica,Hidraulica,No Despachado Centralmente,4476.63,36000,36000
+2023-06-01,GVIO,Hidraulica,Hidraulica,Despachado Centralmente,405881.78,0,299770
+2023-06-01,ZPA3,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,3ED1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-01,CRC1,Hidraulica,Hidraulica,No Despachado Centralmente,53707.52,90000,90000
+2023-06-01,3GVM,Solar,Solar,No Despachado Centralmente,53562.51,75000,75000
+2023-06-01,3HS9,Solar,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-01,LCS1,Hidraulica,Hidraulica,No Despachado Centralmente,47762.37,36000,36000
+2023-06-01,3FCF,Solar,Solar,No Despachado Centralmente,51353.01,62000,62000
+2023-06-01,VLT1,Hidraulica,Hidraulica,No Despachado Centralmente,49383.4,160800,160800
+2023-06-01,SPY1,Hidraulica,Hidraulica,No Despachado Centralmente,8803.74,9600,9600
+2023-06-01,PPA3,Termica,Termica,Despachado Centralmente,1374439,1358000,1358000
+2023-06-01,2SI1,Hidraulica,Hidraulica,No Despachado Centralmente,444015,432000,432000
+2023-06-01,RMR1,Hidraulica,Hidraulica,No Despachado Centralmente,18298.47,46000,46000
+2023-06-01,TFL4,Termica,CICLO COMBINADO,Despachado Centralmente,2948120.5,2880000,2880000
+2023-06-01,TPD1,Termica,Termica,No Despachado Centralmente,29088.36,90000,90000
+2023-06-01,STG1,Hidraulica,Hidraulica,No Despachado Centralmente,45571.4,39600,39600
+2023-06-01,RUB1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,3HG7,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,30.01,240,240
+2023-06-01,TRN1,Termica,Termica,Despachado Centralmente,1341016.75,1328540,1328540
+2023-06-01,2U91,Termica,Termica,No Despachado Centralmente,371770.22,392800,392800
+2023-06-01,2QV2,Hidraulica,Hidraulica,No Despachado Centralmente,238748.41,196000,196000
+2023-06-01,TDR1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,TCD1,Termica,Termica,Despachado Centralmente,1121011.25,975000,975000
+2023-06-01,PTA1,Hidraulica,Hidraulica,No Despachado Centralmente,5947.56,24000,24000
+2023-06-01,RGRN,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-01,2U1G,Hidraulica,Hidraulica,No Despachado Centralmente,54021,33600,33600
+2023-06-01,TR2G,Solar,Solar,No Despachado Centralmente,77218.18,41900,41900
+2023-06-01,CHBG,Hidraulica,Hidraulica,Despachado Centralmente,5185456,5485300,6282220
+2023-06-01,VNTA,Hidraulica,Hidraulica,No Despachado Centralmente,17956.25,0,0
+2023-06-01,2U93,Termica,Termica,No Despachado Centralmente,462823.41,463200,463200
+2023-06-01,SJM1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-01,TMS1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,19881.54,19920,19920
+2023-06-01,CLDR,Hidraulica,Hidraulica,No Despachado Centralmente,342384.38,262000,262000
+2023-06-01,3H2U,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-01,2SDR,Hidraulica,Hidraulica,No Despachado Centralmente,345218,312000,312000
+2023-06-01,ZPA5,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,GCA1,Hidraulica,Hidraulica,No Despachado Centralmente,184993.13,211680,211680
+2023-06-01,AMA1,Hidraulica,Hidraulica,No Despachado Centralmente,63142.18,0,0
+2023-06-01,2V27,Termica,AUTOGENERADOR,No Despachado Centralmente,3664.52,9600,9600
+2023-06-01,PTR1,Termica,Termica,No Despachado Centralmente,2.59,2.59,0
+2023-06-01,AMR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-01,CUR1,Hidraulica,Hidraulica,No Despachado Centralmente,12697.52,12000,12000
+2023-06-01,2S8G,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-01,2SW1,Hidraulica,Hidraulica,No Despachado Centralmente,288620.34,96000,96000
+2023-06-01,RCL1,Hidraulica,Hidraulica,No Despachado Centralmente,34455.96,0,0
+2023-06-01,HMO1,Hidraulica,Hidraulica,No Despachado Centralmente,271368,224000,224000
+2023-06-01,TRM1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-06-01,2UPD,Hidraulica,Hidraulica,No Despachado Centralmente,338963.78,336000,336000
+2023-06-01,SMI1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1155094.88,1200000,1090000
+2023-06-01,3DDT,Solar,Solar,Despachado Centralmente,51459.18,120000,120000
+2023-06-01,2SXQ,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-01,3HE8,Solar,AUTOGENERADOR,No Despachado Centralmente,786,0,0
+2023-06-01,HMIN,Hidraulica,FILO DE AGUA,Despachado Centralmente,1281942.25,1320000,1320000
+2023-06-01,2YB9,Termica,AUTOGENERADOR,No Despachado Centralmente,56071.32,24000,24000
+2023-06-01,PPA2,Termica,Termica,Despachado Centralmente,8464.5,0,0
+2023-06-01,2S78,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,10019.72,9200,9200
+2023-06-01,SNS1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-01,PTC1,Hidraulica,Hidraulica,No Despachado Centralmente,28716,30720,30720
+2023-06-01,RBB1,Hidraulica,Hidraulica,No Despachado Centralmente,63216.65,72000,72000
+2023-06-01,GE32,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,PRG2,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,TBST,Termica,CICLO COMBINADO,Despachado Centralmente,8492497,8380000,8380000
+2023-06-01,JBV1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-01,TVL1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-06-01,2S9Q,Termica,Termica,No Despachado Centralmente,0,0,0
+2023-06-01,3EE4,Eolica,Eolica,No Despachado Centralmente,42910.56,75720,75720
+2023-06-01,RPD1,Hidraulica,Hidraulica,No Despachado Centralmente,471107.19,432000,432000
+2023-06-01,2ZHY,Solar,Solar,No Despachado Centralmente,22507.22,35000,35000
+2023-06-01,TR3G,Solar,Solar,No Despachado Centralmente,78797.73,43000,43000
+2023-06-01,NTB1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-01,3A44,Solar,Solar,No Despachado Centralmente,0,17510,17510
+2023-06-01,MNC1,Hidraulica,Hidraulica,No Despachado Centralmente,21033.89,26400,26400
+2023-06-01,RCIO,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6530,8640,8640
+2023-06-01,UNN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,12628.44,13800,13800
+2023-06-01,SJOG,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5817.9,3420,3420
+2023-06-01,3C4V,Termica,AUTOGENERADOR,No Despachado Centralmente,75293,24000,24000
+2023-06-01,SUV1,Hidraulica,Hidraulica,No Despachado Centralmente,149977.8,140000,140000
+2023-06-01,CGM1,Cogenerador,COGENERADOR,No Despachado Centralmente,360912,341000,341000
+2023-06-01,3ACC,Solar,AUTOGENERADOR,No Despachado Centralmente,5464.21,12000,12000
+2023-06-01,PRC2,Hidraulica,Hidraulica,Despachado Centralmente,6475650,6480000,6480000
+2023-06-01,PST1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6978.85,15840,15840
+2023-06-01,JPR1,Eolica,Eolica,No Despachado Centralmente,10976.5,108980,108980
+2023-06-01,ALBG,Hidraulica,Hidraulica,Despachado Centralmente,5727049,5612310,5980730
+2023-06-01,RGR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-01,GEC3,Termica,Termica,Despachado Centralmente,101.05,0,0
+2023-06-01,3AQP,Hidraulica,Hidraulica,No Despachado Centralmente,11169.84,0,0
+2023-06-01,SNFR,Hidraulica,FILO DE AGUA,Despachado Centralmente,989047.75,810000,810000
+2023-06-01,2ZP9,Solar,Solar,No Despachado Centralmente,76905.68,41000,41000
+2023-06-01,2ZCF,Hidraulica,Hidraulica,No Despachado Centralmente,255413.41,111000,111000
+2023-06-01,PMR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,15865.46,15760,15760
+2023-06-01,AMF1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,10220.76,10800,10800
+2023-06-01,TSJ2,Termica,Termica,Despachado Centralmente,3274350.25,3206310,3255000
+2023-06-01,3F5L,Solar,AUTOGENERADOR,No Despachado Centralmente,682.68,682.68,0
+2023-06-01,2SS2,Hidraulica,Hidraulica,No Despachado Centralmente,123503.6,110400,110400
+2023-06-01,CMN1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,185467.34,176000,176000
+2023-06-01,CTG1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,BAR1,Hidraulica,Hidraulica,No Despachado Centralmente,428675.66,461280,461280
+2023-06-01,JAG1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,PRDO,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2023-06-01,GQA1,Hidraulica,Hidraulica,No Despachado Centralmente,232845.77,213600,213600
+2023-06-01,2U8Y,Termica,Termica,No Despachado Centralmente,461846.41,463200,463200
+2023-06-01,2S6S,Termica,AUTOGENERADOR,No Despachado Centralmente,23244,107000,107000
+2023-06-01,3DXJ,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,13282.58,10350,10350
+2023-06-01,IQU1,Hidraulica,Hidraulica,No Despachado Centralmente,45179.68,48000,48000
+2023-06-01,GTRG,Hidraulica,Hidraulica,Despachado Centralmente,9540890,9303990,9729800
+2023-06-01,OVJ1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,18034.59,19200,19200
+2023-06-01,3EP6,Solar,AUTOGENERADOR,No Despachado Centralmente,7553.7,4000,4000
+2023-06-01,BLL3,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-01,CLL1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1199569,1680000,1233000
+2023-06-01,PGUG,Hidraulica,Hidraulica,Despachado Centralmente,14296727,14365000,14365000
+2023-06-01,3EFY,Solar,Solar,No Despachado Centralmente,82420.03,141630,141630
+2023-06-01,3E98,Solar,AUTOGENERADOR,No Despachado Centralmente,0,7200,7200
+2023-06-01,RPL1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,384000,384000
+2023-06-01,2TUT,Hidraulica,Hidraulica,No Despachado Centralmente,467420.19,432000,432000
+2023-06-01,3GVI,Solar,Solar,No Despachado Centralmente,111258.96,167000,167000
+2023-06-01,2TUV,Hidraulica,Hidraulica,No Despachado Centralmente,458292.91,432000,432000
+2023-06-01,ARG1,Termica,AUTOGENERADOR,No Despachado Centralmente,790,51000,51000
+2023-06-01,3GRD,Solar,Solar,No Despachado Centralmente,55833.94,64000,64000
+2023-06-01,2YNA,Hidraulica,Hidraulica,No Despachado Centralmente,59068,74400,74400
+2023-06-01,2S6Q,Termica,AUTOGENERADOR,No Despachado Centralmente,5169.6,0,0
+2023-06-01,3EXH,Eolica,Eolica,No Despachado Centralmente,23486.61,57330,57330
+2023-06-01,3B4L,Solar,Solar,No Despachado Centralmente,11826,21220,21220
+2023-06-01,CHVR,Hidraulica,Hidraulica,Despachado Centralmente,14520410,15136000,15136000
+2023-06-01,2UPJ,Hidraulica,Hidraulica,No Despachado Centralmente,337427.53,336000,336000
+2023-06-01,3EBN,Solar,Solar,No Despachado Centralmente,55841.57,48000,48000
+2023-06-01,BYN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,17680.36,14400,14400
+2023-06-01,PRG1,Termica,Termica,Despachado Centralmente,418403.59,410000,410000
+2023-06-01,COE1,Hidraulica,Hidraulica,No Despachado Centralmente,23311.69,26400,26400
+2023-06-01,3CG9,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-01,INS1,Hidraulica,Hidraulica,No Despachado Centralmente,329901.47,288000,288000
+2023-06-01,JAGS,Hidraulica,Hidraulica,Despachado Centralmente,3977631,4080000,4080000
+2023-06-01,INT1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-01,TMB1,Termica,Termica,No Despachado Centralmente,51068,60000,60000
+2023-06-01,2UPH,Hidraulica,Hidraulica,No Despachado Centralmente,322657.78,336000,336000
+2023-06-01,3EDL,Solar,Solar,No Despachado Centralmente,75068.05,141630,141630
+2023-06-01,PES1,Hidraulica,Hidraulica,Despachado Centralmente,12863158,12960000,12960000
+2023-06-01,3AXV,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,31557,31557,0
+2023-06-01,SNT1,Hidraulica,Hidraulica,No Despachado Centralmente,97732.98,112800,112800
+2023-06-01,CTG3,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,3CSH,Solar,Solar,No Despachado Centralmente,28460.16,49890,49890
+2023-06-01,NIM1,Hidraulica,Hidraulica,No Despachado Centralmente,137793.59,127000,127000
+2023-06-01,2S8S,Termica,Termica,No Despachado Centralmente,0,6000,6000
+2023-06-01,LBR1,Hidraulica,Hidraulica,No Despachado Centralmente,69202.18,72000,72000
+2023-06-01,SRA1,Hidraulica,Hidraulica,No Despachado Centralmente,25978.48,19680,19680
+2023-06-01,SNCR,Hidraulica,Hidraulica,Despachado Centralmente,21095516,21094000,21094000
+2023-06-01,3GFQ,Solar,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,7.06,7.06,0
+2023-06-01,GTPE,Hidraulica,Hidraulica,Despachado Centralmente,406560,547000,547000
+2023-06-01,LMR1,Hidraulica,Hidraulica,No Despachado Centralmente,423387.47,432000,432000
+2023-06-01,3HF7,Solar,Solar,No Despachado Centralmente,0,0,0
+2023-06-01,BLM1,Hidraulica,Hidraulica,No Despachado Centralmente,61231.84,72000,72000
+2023-06-01,MND1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,10092.52,9600,9600
+2023-06-01,3AL6,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,21.52,21.52,0
+2023-06-01,IRG1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-01,3GJQ,Solar,Solar,No Despachado Centralmente,24851.32,28000,28000
+2023-06-01,2S8I,Termica,AUTOGENERADOR,No Despachado Centralmente,170240,180000,180000
+2023-06-01,SOG1,Hidraulica,Hidraulica,Despachado Centralmente,20107954,19656000,19656000
+2023-06-01,3EXB,Solar,Solar,No Despachado Centralmente,51211.37,65000,65000
+2023-06-01,CLMG,Hidraulica,Hidraulica,Despachado Centralmente,286378.63,294000,294000
+2023-06-01,2S8U,Hidraulica,Hidraulica,No Despachado Centralmente,21993.4,0,0
+2023-06-01,3E7C,Solar,AUTOGENERADOR,No Despachado Centralmente,4018.73,9000,9000
+2023-06-01,3DSO,Solar,Solar,No Despachado Centralmente,0,0,0
+2023-06-01,TYP4,Termica,Termica,Despachado Centralmente,1110950.63,1152000,1152000
+2023-06-01,SBA1,Hidraulica,Hidraulica,No Despachado Centralmente,0,45600,45600
+2023-06-01,2QBW,Hidraulica,Hidraulica,No Despachado Centralmente,474466.06,443040,443040
+2023-06-01,3ADA,Termica,AUTOGENERADOR,No Despachado Centralmente,3459.87,7220,7220
+2023-06-01,TYP1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,3HF5,Solar,Solar,Despachado Centralmente,0,0,0
+2023-06-01,NAV1,Hidraulica,Hidraulica,No Despachado Centralmente,83218.68,72500,72500
+2023-06-01,TUJ1,Hidraulica,Hidraulica,No Despachado Centralmente,450137.78,470400,470400
+2023-06-01,3C3X,Termica,AUTOGENERADOR,No Despachado Centralmente,1198.08,4800,4800
+2023-06-01,3HLD,Solar,Solar,No Despachado Centralmente,0,70840,70840
+2023-06-01,SLV1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,7705.47,7200,7200
+2023-06-01,TBQ4,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,SLVJ,Hidraulica,Hidraulica,Despachado Centralmente,1283943.75,1305000,1305000
+2023-06-01,PLYS,Hidraulica,Hidraulica,Despachado Centralmente,4801040,4210810,4601800
+2023-06-01,PPN1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-01,2VJS,Solar,Solar,No Despachado Centralmente,30667.32,43000,43000
+2023-06-01,2S8N,Hidraulica,Hidraulica,No Despachado Centralmente,240731.02,120000,120000
+2023-06-01,BSQ1,Hidraulica,Hidraulica,No Despachado Centralmente,43636.23,43200,43200
+2023-06-01,CAS1,Cogenerador,COGENERADOR,No Despachado Centralmente,33748.2,72000,72000
+2023-06-01,CQT1,Hidraulica,Hidraulica,No Despachado Centralmente,465000.25,456000,456000
+2023-06-01,CUC1,Hidraulica,FILO DE AGUA,Despachado Centralmente,761432.94,644000,752000
+2023-06-01,2QRL,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,15478.2,15600,15600
+2023-06-01,PNC1,Cogenerador,COGENERADOR,No Despachado Centralmente,230904,192000,192000
+2023-06-01,2YWY,Termica,AUTOGENERADOR,No Despachado Centralmente,65422.55,84000,84000
+2023-06-01,TCDT,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,3C3Z,Solar,Solar,No Despachado Centralmente,44020.86,136000,136000
+2023-06-01,2XXR,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,10802.61,0,0
+2023-06-01,CIP1,Cogenerador,COGENERADOR,No Despachado Centralmente,322096,312000,312000
+2023-06-01,3GJU,Termica,AUTOGENERADOR,No Despachado Centralmente,88439.87,12000,12000
+2023-06-01,TFL1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-06-01,RMYO,Hidraulica,Hidraulica,No Despachado Centralmente,472922.25,277200,277200
+2023-06-01,2YQO,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-06-01,HRD1,Hidraulica,Hidraulica,No Despachado Centralmente,128794.6,312000,312000
+2023-06-01,PRV1,Hidraulica,Hidraulica,No Despachado Centralmente,116925.24,117600,117600
+2023-06-01,3F5N,Solar,AUTOGENERADOR,No Despachado Centralmente,58.4,58.4,0
+2023-06-01,3AFQ,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,17759.94,24000,24000
+2023-06-01,2V5G,Hidraulica,Hidraulica,No Despachado Centralmente,84418.1,86400,86400
+2023-06-01,GCC1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-06-01,TGJ1,Termica,Termica,Despachado Centralmente,2263612,2256640,2256640
+2023-06-01,3HBN,Solar,Solar,No Despachado Centralmente,23225.61,56700,56700
+2023-06-01,EPFV,Solar,Solar,Despachado Centralmente,253533.67,415000,352000
+2023-06-01,3GPZ,Solar,Solar,No Despachado Centralmente,35650.42,51000,51000
+2023-06-01,DVS1,Hidraulica,FILO DE AGUA,Despachado Centralmente,3395663.5,3335000,3347910
+2023-06-01,CTG2,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,ASN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,7793.98,0,0
+2023-06-01,3GI6,Solar,Solar,No Despachado Centralmente,344.09,344.09,0
+2023-06-01,2UR5,Hidraulica,Hidraulica,No Despachado Centralmente,19020.6,14400,14400
+2023-06-01,3HF9,Solar,Solar,No Despachado Centralmente,10.29,0,0
+2023-06-01,2U5P,Termica,Termica,No Despachado Centralmente,0,0,0
+2023-06-01,URA1,Hidraulica,Hidraulica,Despachado Centralmente,6553956,6510000,6510000
+2023-06-01,IQU2,Hidraulica,Hidraulica,No Despachado Centralmente,29977.38,24000,24000
+2023-06-01,USQ1,Hidraulica,Hidraulica,No Despachado Centralmente,25885.34,24000,24000
+2023-06-01,MRL1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-06-01,MIR1,Hidraulica,Hidraulica,No Despachado Centralmente,19811.54,64560,64560
+2023-06-01,TCD2,Termica,Termica,Despachado Centralmente,398830.47,1293000,1293000
+2023-06-01,PRC3,Hidraulica,Hidraulica,Despachado Centralmente,16631239,16800000,16800000
+2023-06-01,CSC1,Hidraulica,Hidraulica,No Despachado Centralmente,53331.56,43200,43200
+2023-06-01,PLM1,Hidraulica,Hidraulica,No Despachado Centralmente,47914.29,72000,72000
+2023-06-01,TBQ3,Termica,Termica,Despachado Centralmente,254696.16,246000,246000
+2023-06-01,3HBP,Solar,Solar,No Despachado Centralmente,55186.12,104700,104700
+2023-06-01,3EV3,Solar,Solar,No Despachado Centralmente,51944.66,59000,59000
+2023-06-01,NQU1,Hidraulica,Hidraulica,No Despachado Centralmente,316841.81,279000,279000
+2023-06-01,ABJ1,Hidraulica,Hidraulica,No Despachado Centralmente,53110.2,69600,69600
+2023-06-01,2TYI,Solar,AUTOGENERADOR,No Despachado Centralmente,4318.8,7000,7000
+2023-06-01,3E9I,Hidraulica,Hidraulica,No Despachado Centralmente,189253.59,216000,216000
+2023-06-01,2UPF,Hidraulica,Hidraulica,No Despachado Centralmente,328601.44,336000,336000
+2023-06-01,TSJ1,Termica,Termica,Despachado Centralmente,3071186.5,2894000,3059000
+2023-06-01,CPT1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,16794.24,16800,16800
+2023-06-01,SJN1,Hidraulica,Hidraulica,No Despachado Centralmente,63383.4,62400,62400
+2023-06-01,2T4P,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-06-01,3HG9,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9.66,0,0
+2023-06-01,CCN1,Hidraulica,Hidraulica,No Despachado Centralmente,55636,63900,63900
+2023-06-01,ZPA4,Termica,Termica,Despachado Centralmente,0,0,0
+2024-12-16,3HBN,Solar,Solar,No Despachado Centralmente,65890,66000,66000
+2024-12-16,TUJ1,Hidraulica,Hidraulica,No Despachado Centralmente,51830,470400,470400
+2024-12-16,2SI1,Hidraulica,Hidraulica,No Despachado Centralmente,230130,216000,216000
+2024-12-16,3J4T,Solar,Solar,No Despachado Centralmente,78550,78550,78550
+2024-12-16,SUV1,Hidraulica,Hidraulica,No Despachado Centralmente,31640,33600,33600
+2024-12-16,3NLE,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6170,6170,6170
+2024-12-16,TCDT,Termica,CICLO COMBINADO,Despachado Centralmente,12720880,12640290,13274330
+2024-12-16,RMYO,Hidraulica,Hidraulica,No Despachado Centralmente,336760,316800,316800
+2024-12-16,CQT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,120000,120000
+2024-12-16,COE1,Hidraulica,Hidraulica,No Despachado Centralmente,26400,26400,26400
+2024-12-16,CMN1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,108000,126400,126400
+2024-12-16,RCIO,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,12740,12240,12240
+2024-12-16,2U91,Termica,Termica,No Despachado Centralmente,246050,463200,463200
+2024-12-16,3CSH,Solar,Solar,No Despachado Centralmente,46790,46790,46790
+2024-12-16,TR3G,Solar,Solar,No Despachado Centralmente,72560,141770,141770
+2024-12-16,VNTB,Hidraulica,Hidraulica,No Despachado Centralmente,59910,0,0
+2024-12-16,SNCR,Hidraulica,Hidraulica,Despachado Centralmente,1545270,991000,991000
+2024-12-16,TFL4,Termica,CICLO COMBINADO,Despachado Centralmente,10125890,10488000,10488000
+2024-12-16,3J2H,Solar,Solar,No Despachado Centralmente,75230,75230,75230
+2024-12-16,TBQ3,Termica,Termica,Despachado Centralmente,0,0,0
+2024-12-16,2SS2,Hidraulica,Hidraulica,No Despachado Centralmente,64800,64800,64800
+2024-12-16,3JPK,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5900,5900,5900
+2024-12-16,3E7C,Solar,AUTOGENERADOR,No Despachado Centralmente,18990,2000,2000
+2024-12-16,RGRN,Hidraulica,Hidraulica,No Despachado Centralmente,200310,209000,209000
+2024-12-16,CPT1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2024-12-16,3KVZ,Solar,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,BSQ1,Hidraulica,Hidraulica,No Despachado Centralmente,41580,40800,40800
+2024-12-16,3HS9,Solar,AUTOGENERADOR,No Despachado Centralmente,10650,1000,1000
+2024-12-16,BLL3,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,790,5040,5040
+2024-12-16,PTR1,Termica,Termica,No Despachado Centralmente,0,0,0
+2024-12-16,LCS1,Hidraulica,Hidraulica,No Despachado Centralmente,30200,43200,43200
+2024-12-16,3EV3,Solar,Solar,No Despachado Centralmente,56700,30000,30000
+2024-12-16,3FCF,Solar,Solar,No Despachado Centralmente,45790,58000,58000
+2024-12-16,3NU4,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5710,5710,5710
+2024-12-16,SFC1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,7440,7440,7440
+2024-12-16,PLYS,Hidraulica,Hidraulica,Despachado Centralmente,3070890,4968000,3105000
+2024-12-16,GCC1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,20600,20640,20640
+2024-12-16,HMIN,Hidraulica,FILO DE AGUA,Despachado Centralmente,540650,1320000,546000
+2024-12-16,2V5G,Hidraulica,Hidraulica,No Despachado Centralmente,91200,91200,91200
+2024-12-16,PRV1,Hidraulica,Hidraulica,No Despachado Centralmente,117600,117600,117600
+2024-12-16,GQA1,Hidraulica,Hidraulica,No Despachado Centralmente,171960,141000,141000
+2024-12-16,BAR1,Hidraulica,Hidraulica,No Despachado Centralmente,255210,256000,256000
+2024-12-16,2UPJ,Hidraulica,Hidraulica,No Despachado Centralmente,0,144000,144000
+2024-12-16,GCA1,Hidraulica,Hidraulica,No Despachado Centralmente,139660,110000,110000
+2024-12-16,3JQC,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6170,6170,6170
+2024-12-16,TYP4,Termica,Termica,Despachado Centralmente,1106720,1105000,1105000
+2024-12-16,2TUT,Hidraulica,Hidraulica,No Despachado Centralmente,185370,120000,120000
+2024-12-16,JAGS,Hidraulica,Hidraulica,Despachado Centralmente,2917970,2274560,2596810
+2024-12-16,3HE8,Solar,AUTOGENERADOR,No Despachado Centralmente,4780,0,0
+2024-12-16,2WC5,Hidraulica,Hidraulica,No Despachado Centralmente,84000,84000,84000
+2024-12-16,IQU2,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2024-12-16,TBQ4,Termica,Termica,Despachado Centralmente,0,0,0
+2024-12-16,MNC1,Hidraulica,Hidraulica,No Despachado Centralmente,18300,16100,16100
+2024-12-16,3EBN,Solar,Solar,No Despachado Centralmente,75190,41000,41000
+2024-12-16,3KJK,Solar,Solar,No Despachado Centralmente,52400,52400,52400
+2024-12-16,3NNZ,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,IRG1,Cogenerador,COGENERADOR,No Despachado Centralmente,400690,360000,360000
+2024-12-16,CHBG,Hidraulica,Hidraulica,Despachado Centralmente,2774800,1866860,2351270
+2024-12-16,2UX3,Hidraulica,Hidraulica,No Despachado Centralmente,190600,190600,190600
+2024-12-16,2SXQ,Cogenerador,COGENERADOR,No Despachado Centralmente,412390,360000,360000
+2024-12-16,TYP2,Termica,Termica,Despachado Centralmente,0,0,0
+2024-12-16,2S8G,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,NIM1,Hidraulica,Hidraulica,No Despachado Centralmente,56100,0,0
+2024-12-16,SBA1,Hidraulica,Hidraulica,No Despachado Centralmente,0,12000,12000
+2024-12-16,ASN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9710,9120,9120
+2024-12-16,3PKF,Solar,AUTOGENERADOR,No Despachado Centralmente,3140,2430,2430
+2024-12-16,2SDR,Hidraulica,Hidraulica,No Despachado Centralmente,139200,139200,139200
+2024-12-16,PPA3,Termica,Termica,Despachado Centralmente,1594230,1605000,1605000
+2024-12-16,3HLD,Solar,Solar,No Despachado Centralmente,70840,70840,70840
+2024-12-16,2QBW,Hidraulica,Hidraulica,No Despachado Centralmente,391320,316000,316000
+2024-12-16,2S78,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,8640,8640,8640
+2024-12-16,PNC1,Cogenerador,COGENERADOR,No Despachado Centralmente,12680,336000,336000
+2024-12-16,3Q87,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5920,5920,5920
+2024-12-16,EPFV,Solar,Solar,Despachado Centralmente,470680,582000,518000
+2024-12-16,3DSO,Solar,Solar,No Despachado Centralmente,61040,61040,61040
+2024-12-16,RPL1,Cogenerador,COGENERADOR,No Despachado Centralmente,384000,384000,384000
+2024-12-16,2ZHY,Solar,Solar,No Despachado Centralmente,29850,39000,39000
+2024-12-16,3J4V,Solar,Solar,No Despachado Centralmente,75550,75550,75550
+2024-12-16,PIC1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,3EXH,Eolica,Eolica,No Despachado Centralmente,117890,134200,134200
+2024-12-16,FLRD,Hidraulica,Hidraulica,No Despachado Centralmente,379740,165000,165000
+2024-12-16,3IRZ,Hidraulica,Hidraulica,No Despachado Centralmente,16800,16800,16800
+2024-12-16,3CG9,Hidraulica,Hidraulica,No Despachado Centralmente,96000,96000,96000
+2024-12-16,3C4V,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,PRC3,Hidraulica,Hidraulica,Despachado Centralmente,8114560,2354290,3880380
+2024-12-16,3C3Z,Solar,Solar,No Despachado Centralmente,128790,140000,140000
+2024-12-16,PLM1,Hidraulica,Hidraulica,No Despachado Centralmente,170530,192000,192000
+2024-12-16,3EXB,Solar,Solar,No Despachado Centralmente,51960,30000,30000
+2024-12-16,2U1G,Hidraulica,Hidraulica,No Despachado Centralmente,33600,33600,33600
+2024-12-16,BLM1,Hidraulica,Hidraulica,No Despachado Centralmente,72120,72000,72000
+2024-12-16,CUC1,Hidraulica,FILO DE AGUA,Despachado Centralmente,453040,240000,447000
+2024-12-16,3KOL,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,4780,6680,6680
+2024-12-16,2VJS,Solar,Solar,No Despachado Centralmente,50180,40000,40000
+2024-12-16,MND1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9390,9600,9600
+2024-12-16,AFR1,Hidraulica,Hidraulica,No Despachado Centralmente,174960,174960,174960
+2024-12-16,3J1J,Solar,Solar,No Despachado Centralmente,45660,69000,69000
+2024-12-16,3J2B,Solar,Solar,No Despachado Centralmente,124600,130000,130000
+2024-12-16,3JP6,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5720,3680,3680
+2024-12-16,3A44,Solar,Solar,No Despachado Centralmente,18900,18900,18900
+2024-12-16,2QV2,Hidraulica,Hidraulica,No Despachado Centralmente,217180,96000,96000
+2024-12-16,3NDE,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6070,6070,6070
+2024-12-16,SNT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2024-12-16,ESMR,Hidraulica,FILO DE AGUA,Despachado Centralmente,674430,720000,624000
+2024-12-16,3EE4,Eolica,Eolica,No Despachado Centralmente,105120,181470,181470
+2024-12-16,3GFQ,Solar,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,0,0,0
+2024-12-16,ALTG,Hidraulica,Hidraulica,No Despachado Centralmente,153260,24000,24000
+2024-12-16,RMR1,Hidraulica,Hidraulica,No Despachado Centralmente,30000,30000,30000
+2024-12-16,BYN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2024-12-16,TSJ1,Termica,Termica,Despachado Centralmente,3884040,3960000,3960000
+2024-12-16,2T7D,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,31010,31010,31010
+2024-12-16,2U5P,Termica,Termica,No Despachado Centralmente,10390,312000,312000
+2024-12-16,TDR1,Termica,Termica,Despachado Centralmente,396730,0,500610
+2024-12-16,CLL1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1168330,1872000,1140000
+2024-12-16,3PWF,Solar,AUTOGENERADOR,No Despachado Centralmente,25520,47950,47950
+2024-12-16,GTRG,Hidraulica,Hidraulica,Despachado Centralmente,12097820,12288000,12288000
+2024-12-16,3GJQ,Solar,Solar,No Despachado Centralmente,20330,23800,23800
+2024-12-16,3MS2,Solar,AUTOGENERADOR,No Despachado Centralmente,84960,60000,60000
+2024-12-16,USQ1,Hidraulica,Hidraulica,No Despachado Centralmente,26860,24000,24000
+2024-12-16,SJN1,Hidraulica,Hidraulica,No Despachado Centralmente,61420,50400,50400
+2024-12-16,NTB1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2024-12-16,3BZB,Solar,Solar,No Despachado Centralmente,15010,3000,3000
+2024-12-16,3JQA,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5170,5170,5170
+2024-12-16,CMP2,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2024-12-16,2UPF,Hidraulica,Hidraulica,No Despachado Centralmente,0,144000,144000
+2024-12-16,3E9I,Hidraulica,Hidraulica,No Despachado Centralmente,93600,93600,93600
+2024-12-16,ARG1,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,ABJ1,Hidraulica,Hidraulica,No Despachado Centralmente,72000,72000,72000
+2024-12-16,RFR1,Hidraulica,Hidraulica,No Despachado Centralmente,24000,24000,24000
+2024-12-16,3JPM,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6170,6170,6170
+2024-12-16,3NR4,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6170,6170,6170
+2024-12-16,3PXJ,Solar,Solar,No Despachado Centralmente,23900,23900,23900
+2024-12-16,2UP2,Cogenerador,COGENERADOR,No Despachado Centralmente,159100,132000,132000
+2024-12-16,CTG3,Termica,Termica,Despachado Centralmente,0,0,0
+2024-12-16,3J4R,Solar,Solar,No Despachado Centralmente,78550,78550,78550
+2024-12-16,3IJF,Termica,AUTOGENERADOR,No Despachado Centralmente,24000,24000,24000
+2024-12-16,3QQ3,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5900,5900,5900
+2024-12-16,3JQE,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6170,6170,6170
+2024-12-16,2S9L,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,10800,10800,10800
+2024-12-16,CTG2,Termica,Termica,Despachado Centralmente,0,0,0
+2024-12-16,3F5L,Solar,AUTOGENERADOR,No Despachado Centralmente,3560,3560,3560
+2024-12-16,INZ1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2024-12-16,3RKP,Termica,Termica,No Despachado Centralmente,96000,96000,96000
+2024-12-16,2WFN,Termica,Termica,No Despachado Centralmente,0,0,0
+2024-12-16,PES1,Hidraulica,Hidraulica,Despachado Centralmente,21379730,22160000,21138000
+2024-12-16,TSJ2,Termica,Termica,Despachado Centralmente,4045010,4080000,4080000
+2024-12-16,2UPH,Hidraulica,Hidraulica,No Despachado Centralmente,0,120000,120000
+2024-12-16,LPLO,Hidraulica,Hidraulica,No Despachado Centralmente,13590,0,0
+2024-12-16,2YNA,Hidraulica,Hidraulica,No Despachado Centralmente,74400,74400,74400
+2024-12-16,2QRL,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,15600,15600,15600
+2024-12-16,TGJ1,Termica,Termica,Despachado Centralmente,2370880,3480000,2369000
+2024-12-16,3LMH,Solar,Solar,No Despachado Centralmente,42620,42620,42620
+2024-12-16,3AQP,Hidraulica,Hidraulica,No Despachado Centralmente,4800,4800,4800
+2024-12-16,LTSJ,Hidraulica,Hidraulica,Despachado Centralmente,1970980,918000,1046440
+2024-12-16,2YWY,Termica,AUTOGENERADOR,No Despachado Centralmente,84000,84000,84000
+2024-12-16,3JPC,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,4830,6530,6530
+2024-12-16,PRC2,Hidraulica,Hidraulica,Despachado Centralmente,7491380,7560000,7560000
+2024-12-16,3K6T,Solar,Solar,No Despachado Centralmente,58390,58390,58390
+2024-12-16,3QPE,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,560,900,900
+2024-12-16,3GPZ,Solar,Solar,No Despachado Centralmente,49960,43000,43000
+2024-12-16,3J85,Solar,Solar,No Despachado Centralmente,56240,56240,56240
+2024-12-16,CHVR,Hidraulica,Hidraulica,Despachado Centralmente,12048490,12000000,12000000
+2024-12-16,DVS1,Hidraulica,FILO DE AGUA,Despachado Centralmente,72850,2400000,30000
+2024-12-16,PRD4,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2024-12-16,NQU1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2024-12-16,PRG1,Termica,Termica,Despachado Centralmente,220960,0,0
+2024-12-16,3QK6,Solar,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,3RKN,Solar,AUTOGENERADOR,No Despachado Centralmente,30000,30000,30000
+2024-12-16,3K8E,Solar,Solar,No Despachado Centralmente,120150,125700,125700
+2024-12-16,3GVI,Solar,Solar,No Despachado Centralmente,114910,142000,142000
+2024-12-16,PLU1,Hidraulica,Hidraulica,No Despachado Centralmente,9600,9600,9600
+2024-12-16,3GVK,Solar,Solar,No Despachado Centralmente,105670,144000,144000
+2024-12-16,2S6Q,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,TVL1,Termica,CICLO COMBINADO,Despachado Centralmente,4641440,3822600,4734440
+2024-12-16,3NR8,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6170,6170,6170
+2024-12-16,3EDL,Solar,Solar,No Despachado Centralmente,87950,123860,123860
+2024-12-16,3GRD,Solar,Solar,No Despachado Centralmente,59640,58000,58000
+2024-12-16,3RH2,Solar,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,3Q7D,Solar,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,CRC1,Hidraulica,Hidraulica,No Despachado Centralmente,88820,90000,90000
+2024-12-16,3PXC,Solar,Solar,No Despachado Centralmente,0,125700,125700
+2024-12-16,2S8I,Termica,AUTOGENERADOR,No Despachado Centralmente,192000,192000,192000
+2024-12-16,HRD1,Hidraulica,Hidraulica,No Despachado Centralmente,423600,470400,470400
+2024-12-16,3HYG,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6170,6170,6170
+2024-12-16,3NLZ,Solar,Solar,No Despachado Centralmente,76050,58360,58360
+2024-12-16,MOY1,Hidraulica,FILO DE AGUA,Despachado Centralmente,723040,1800000,687000
+2024-12-16,PMR1,Hidraulica,Hidraulica,No Despachado Centralmente,15760,15760,15760
+2024-12-16,2S8N,Hidraulica,Hidraulica,No Despachado Centralmente,223860,120000,120000
+2024-12-16,TRM1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2024-12-16,3HF9,Solar,Solar,No Despachado Centralmente,123300,63000,63000
+2024-12-16,CTG1,Termica,Termica,Despachado Centralmente,0,0,0
+2024-12-16,3GJU,Termica,AUTOGENERADOR,No Despachado Centralmente,12000,12000,12000
+2024-12-16,2YB9,Termica,AUTOGENERADOR,No Despachado Centralmente,24000,24000,24000
+2024-12-16,PJR1,Hidraulica,Hidraulica,No Despachado Centralmente,225060,129600,129600
+2024-12-16,3K8C,Solar,Solar,No Despachado Centralmente,125460,125700,125700
+2024-12-16,3LMJ,Solar,Solar,No Despachado Centralmente,51890,30000,30000
+2024-12-16,2V27,Termica,AUTOGENERADOR,No Despachado Centralmente,9600,9600,9600
+2024-12-16,3Q9K,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2024-12-16,UNN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,13800,13800,13800
+2024-12-16,3RGX,Solar,Solar,No Despachado Centralmente,0,0,0
+2024-12-16,2ZCF,Hidraulica,Hidraulica,No Despachado Centralmente,395270,240000,240000
+2024-12-16,3GI6,Solar,Solar,No Despachado Centralmente,520,520,520
+2024-12-16,3JPE,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,3220,3940,3940
+2024-12-16,3ENA,Termica,Termica,Despachado Centralmente,2303360,1508720,2296000
+2024-12-16,3NLG,Solar,Solar,No Despachado Centralmente,24340,24340,24340
+2024-12-16,2YIR,Hidraulica,Hidraulica,No Despachado Centralmente,5040,5040,5040
+2024-12-16,AMF1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,11280,11280,11280
+2024-12-16,2S9Q,Termica,Termica,No Despachado Centralmente,0,0,0
+2024-12-16,3B4L,Solar,Solar,No Despachado Centralmente,20760,20760,20760
+2024-12-16,URA1,Hidraulica,Hidraulica,Despachado Centralmente,2292810,2280000,2280000
+2024-12-16,3EFY,Solar,Solar,No Despachado Centralmente,98420,141770,141770
+2024-12-16,3RGZ,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6170,6170,6170
+2024-12-16,3PKH,Solar,Solar,No Despachado Centralmente,77800,0,0
+2024-12-16,3FCD,Solar,AUTOGENERADOR,No Despachado Centralmente,10750,0,0
+2024-12-16,3C3X,Termica,AUTOGENERADOR,No Despachado Centralmente,4800,4800,4800
+2024-12-16,2QEK,Hidraulica,FILO DE AGUA,Despachado Centralmente,0,120000,0
+2024-12-16,3NGJ,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,4200,5620,5620
+2024-12-16,3HG9,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2024-12-16,SMI1,Hidraulica,FILO DE AGUA,Despachado Centralmente,937000,1128000,960000
+2024-12-16,SNFR,Hidraulica,FILO DE AGUA,Despachado Centralmente,859020,630000,630000
+2024-12-16,3EP6,Solar,AUTOGENERADOR,No Despachado Centralmente,6870,0,0
+2024-12-16,CSC1,Hidraulica,Hidraulica,No Despachado Centralmente,21240,24000,24000
+2024-12-16,3GVM,Solar,Solar,No Despachado Centralmente,48310,64000,64000
+2024-12-16,3ADA,Termica,AUTOGENERADOR,No Despachado Centralmente,40,5320,5320
+2024-12-16,CUR1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2024-12-16,PST1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,12640,15360,15360
+2024-12-16,TFL1,Termica,CICLO COMBINADO,Despachado Centralmente,3710200,3443800,3820000
+2024-12-16,3KLQ,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,LMR1,Hidraulica,Hidraulica,No Despachado Centralmente,0,384000,384000
+2024-12-16,TCBE,Termica,Termica,Despachado Centralmente,1160000,1080000,1164000
+2024-12-16,ZPA5,Termica,Termica,Despachado Centralmente,1389760,1440000,1440000
+2024-12-16,3J4D,Solar,Solar,No Despachado Centralmente,79160,79160,79160
+2024-12-16,RNG1,Hidraulica,Hidraulica,No Despachado Centralmente,168000,168000,168000
+2024-12-16,3DDT,Solar,Solar,Despachado Centralmente,684600,850000,712000
+2024-12-16,3F5N,Solar,AUTOGENERADOR,No Despachado Centralmente,880,880,880
+2024-12-16,3MHB,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6170,6170,6170
+2024-12-16,3HDE,Hidraulica,Hidraulica,No Despachado Centralmente,132000,132000,132000
+2024-12-16,2T1L,Hidraulica,Hidraulica,No Despachado Centralmente,222100,277440,277440
+2024-12-16,TGJ2,Termica,Termica,Despachado Centralmente,2221980,3120000,2239000
+2024-12-16,RFR2,Hidraulica,Hidraulica,No Despachado Centralmente,167000,167000,167000
+2024-12-16,SLV1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,8220,7680,7680
+2024-12-16,3AFQ,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,24000,24000,24000
+2024-12-16,GTPE,Hidraulica,Hidraulica,Despachado Centralmente,508390,2170000,1330000
+2024-12-16,3LLY,Solar,Solar,No Despachado Centralmente,42740,66000,66000
+2024-12-16,3JNR,Termica,AUTOGENERADOR,No Despachado Centralmente,117600,117600,117600
+2024-12-16,ZPA4,Termica,Termica,Despachado Centralmente,1398000,1440000,1440000
+2024-12-16,CCN1,Hidraulica,Hidraulica,No Despachado Centralmente,63900,63900,63900
+2024-12-16,SPY1,Hidraulica,Hidraulica,No Despachado Centralmente,9330,33600,33600
+2024-12-16,3INX,Solar,Solar,Despachado Centralmente,272000,272000,272000
+2024-12-16,INS1,Hidraulica,Hidraulica,No Despachado Centralmente,314170,264000,264000
+2024-12-16,RCL1,Hidraulica,Hidraulica,No Despachado Centralmente,16960,0,0
+2024-12-16,HMLG,Hidraulica,Hidraulica,Despachado Centralmente,9532200,9341680,9503300
+2024-12-16,TEC1,Termica,CICLO COMBINADO,Despachado Centralmente,4241720,3194090,4159050
+2024-12-16,2U8Y,Termica,Termica,No Despachado Centralmente,473070,463200,463200
+2024-12-16,CLMG,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2024-12-16,3PKN,Solar,Solar,No Despachado Centralmente,61630,0,0
+2024-12-16,ZPA2,Termica,Termica,Despachado Centralmente,697150,792000,792000
+2024-12-16,SRA1,Hidraulica,Hidraulica,No Despachado Centralmente,26400,26400,26400
+2024-12-16,2S8U,Hidraulica,Hidraulica,No Despachado Centralmente,37460,36000,36000
+2024-12-16,3J83,Solar,Solar,No Despachado Centralmente,50050,50050,50050
+2024-12-16,INC1,Cogenerador,COGENERADOR,No Despachado Centralmente,600000,600000,600000
+2024-12-16,3IQA,Solar,Solar,Despachado Centralmente,155940,158000,158000
+2024-12-16,ALBG,Hidraulica,Hidraulica,Despachado Centralmente,5117670,5442000,5388000
+2024-12-16,TYP3,Termica,Termica,Despachado Centralmente,0,0,0
+2024-12-16,3EV1,Solar,Solar,No Despachado Centralmente,56530,30000,30000
+2024-12-16,3ENE,Solar,Solar,No Despachado Centralmente,100840,148000,148000
+2024-12-16,2U93,Termica,Termica,No Despachado Centralmente,468780,463200,463200
+2024-12-16,3HF5,Solar,Solar,Despachado Centralmente,730290,791000,791000
+2024-12-16,PTC1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2024-12-16,3K6X,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5640,3490,3490
+2024-12-16,HMO1,Hidraulica,Hidraulica,No Despachado Centralmente,459180,270000,270000
+2024-12-16,3R9G,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5940,5940,5940
+2024-12-16,OVJ1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,18860,19200,19200
+2024-12-16,TR2G,Solar,Solar,No Despachado Centralmente,71580,141770,141770
+2024-12-16,3HWM,Solar,Solar,No Despachado Centralmente,76880,68000,68000
+2024-12-16,GE32,Termica,Termica,Despachado Centralmente,6036220,6120000,6120000
+2024-12-16,3PXE,Solar,Solar,No Despachado Centralmente,125000,125700,125700
+2024-12-16,2TYI,Solar,AUTOGENERADOR,No Despachado Centralmente,14030,2000,2000
+2024-12-16,SJM1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2024-12-16,TPUY,Solar,Solar,Despachado Centralmente,442640,434000,434000
+2024-12-16,3PXH,Solar,Solar,No Despachado Centralmente,26320,26320,26320
+2024-12-16,3HBP,Solar,Solar,No Despachado Centralmente,135150,144000,144000
+2024-12-16,2UPD,Hidraulica,Hidraulica,No Despachado Centralmente,0,144000,144000
+2024-12-16,MIR1,Hidraulica,Hidraulica,No Despachado Centralmente,50450,59760,59760
+2024-12-16,2ZP9,Solar,Solar,No Despachado Centralmente,91080,141770,141770
+2024-12-16,2UR5,Hidraulica,Hidraulica,No Despachado Centralmente,21600,21600,21600
+2024-12-16,SLVJ,Hidraulica,Hidraulica,Despachado Centralmente,728640,720000,720000
+2024-12-16,3KXQ,Solar,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,3HG7,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,60,60,60
+2024-12-16,GYPO,Solar,Solar,Despachado Centralmente,1693820,2275000,1808000
+2024-12-16,TSR1,Termica,CICLO COMBINADO,Despachado Centralmente,1831760,2979000,2291000
+2024-12-16,PRG2,Termica,Termica,Despachado Centralmente,1023220,1041000,1062000
+2024-12-16,AYR1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,306120,283000,283000
+2024-12-16,2R22,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2024-12-16,CIS1,Cogenerador,COGENERADOR,No Despachado Centralmente,25050,20000,20000
+2024-12-16,3JP8,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,3620,2440,2440
+2024-12-16,STG1,Hidraulica,Hidraulica,No Despachado Centralmente,26070,47040,47040
+2024-12-16,SNC1,Hidraulica,Hidraulica,No Despachado Centralmente,1770,0,0
+2024-12-16,NAV1,Hidraulica,Hidraulica,No Despachado Centralmente,72000,72000,72000
+2024-12-16,CAS1,Cogenerador,COGENERADOR,No Despachado Centralmente,72000,72000,72000
+2024-12-16,TRN1,Termica,Termica,Despachado Centralmente,1755000,1634610,1804600
+2024-12-16,SNS1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2024-12-16,SOG1,Hidraulica,Hidraulica,Despachado Centralmente,4277630,2880000,2934000
+2024-12-16,3Q99,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,2S8S,Termica,Termica,No Despachado Centralmente,6000,6000,6000
+2024-12-16,VLT1,Hidraulica,Hidraulica,No Despachado Centralmente,191160,240000,240000
+2024-12-16,3N5E,Solar,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,0,0,0
+2024-12-16,3H2U,Hidraulica,Hidraulica,No Despachado Centralmente,235600,235600,235600
+2024-12-16,TYP5,Termica,Termica,Despachado Centralmente,1184410,1176000,1176000
+2024-12-16,PGUG,Hidraulica,Hidraulica,Despachado Centralmente,9744870,10012000,9832000
+2024-12-16,TYP1,Termica,Termica,Despachado Centralmente,203440,192000,192000
+2024-12-16,2TUV,Hidraulica,Hidraulica,No Despachado Centralmente,177820,240000,240000
+2024-12-16,2S6S,Termica,AUTOGENERADOR,No Despachado Centralmente,111280,58000,58000
+2024-12-16,CGM1,Cogenerador,COGENERADOR,No Despachado Centralmente,504400,456000,456000
+2024-12-16,PPA4,Termica,Termica,Despachado Centralmente,3962730,3960000,3960000
+2024-12-16,RBB1,Hidraulica,Hidraulica,No Despachado Centralmente,73950,48000,48000
+2024-12-16,MATA,Solar,Solar,Despachado Centralmente,421400,711000,452000
+2024-12-16,CLDR,Hidraulica,Hidraulica,No Despachado Centralmente,343380,239700,239700
+2024-12-16,3JPA,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,3160,2710,2710
+2024-12-16,AMA1,Hidraulica,Hidraulica,No Despachado Centralmente,149160,96000,96000
+2024-12-16,IQU1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2024-12-16,MRL1,Termica,Termica,Despachado Centralmente,1463830,1148040,1469920
+2024-12-16,VNTA,Hidraulica,Hidraulica,No Despachado Centralmente,0,60000,60000
+2024-12-16,PPN1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,QUI1,Hidraulica,Hidraulica,Despachado Centralmente,2227490,1944000,1944000
+2024-12-16,SJOG,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,2440,2400,2400
+2024-12-16,3QCI,Solar,Solar,No Despachado Centralmente,82460,82460,82460
+2024-12-16,AMR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,430,6000,6000
+2024-12-16,INT1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2024-12-16,3JBP,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6070,6070,6070
+2024-12-16,3PK3,Solar,AUTOGENERADOR,No Despachado Centralmente,2500,260,260
+2024-12-16,TPD1,Termica,Termica,No Despachado Centralmente,90000,90000,90000
+2024-12-16,ZPA3,Termica,Termica,Despachado Centralmente,1024800,1152000,1152000
+2024-12-16,3PXF,Solar,Solar,No Despachado Centralmente,129580,125700,125700
+2024-12-16,3ED1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2024-12-16,2SW1,Hidraulica,Hidraulica,No Despachado Centralmente,123870,120000,120000
+2024-12-16,3IZ6,Solar,Solar,Despachado Centralmente,665970,1008000,630000
+2024-12-16,RPD1,Hidraulica,FILO DE AGUA,Despachado Centralmente,413220,412000,432000
+2024-12-16,TMS1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,19050,18960,18960
+2024-12-16,2S6U,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,161860,156000,156000
+2024-12-16,3KL4,Termica,AUTOGENERADOR,No Despachado Centralmente,60410,120000,120000
+2024-12-16,LBR1,Hidraulica,Hidraulica,No Despachado Centralmente,26520,24000,24000
+2024-12-16,3Q89,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5920,5920,5920
+2024-12-16,PPA1,Termica,Termica,Despachado Centralmente,554760,552000,552000
+2024-12-16,PTG1,Hidraulica,Hidraulica,No Despachado Centralmente,7200,7200,7200
+2024-12-16,PTA1,Hidraulica,Hidraulica,No Despachado Centralmente,16210,24000,24000
+2024-12-16,PPA2,Termica,Termica,Despachado Centralmente,0,0,0
+2024-12-16,3HF7,Solar,Solar,No Despachado Centralmente,122050,62000,62000
+2024-12-16,3DXJ,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,10350,10350,10350
+2024-12-16,RGR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,7200,7200,7200
+2024-12-16,3IS2,Solar,Solar,No Despachado Centralmente,12900,12900,12900
+2024-12-16,3GSF,Solar,AUTOGENERADOR,No Despachado Centralmente,10780,4000,4000
+2024-12-16,GVIO,Hidraulica,Hidraulica,Despachado Centralmente,95810,0,0
+2024-12-16,2V25,Termica,AUTOGENERADOR,No Despachado Centralmente,188420,21600,21600
+2024-12-16,3HDG,Hidraulica,Hidraulica,No Despachado Centralmente,132000,132000,132000
+2024-12-16,CIP1,Cogenerador,COGENERADOR,No Despachado Centralmente,316800,316800,316800
+2024-12-16,3IRX,Solar,Solar,Despachado Centralmente,464000,615000,605000
+2024-12-16,PRDO,Hidraulica,Hidraulica,Despachado Centralmente,918360,267000,668320
+2024-12-16,3L9B,Solar,AUTOGENERADOR,No Despachado Centralmente,44000,44000,44000
+2024-12-16,2T4P,Hidraulica,Hidraulica,No Despachado Centralmente,230370,277920,277920
+2024-12-16,GEC3,Termica,Termica,Despachado Centralmente,3726530,3936000,3936000
+2024-12-16,TMB1,Termica,Termica,No Despachado Centralmente,0,0,0
+2024-12-16,4QPJ,Solar,Solar,No Despachado Centralmente,0,0,0
+2024-12-16,3K8A,Solar,AUTOGENERADOR,No Despachado Centralmente,260,120,120
+2024-12-16,MNT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2024-12-16,TBST,Termica,CICLO COMBINADO,Despachado Centralmente,18724000,15430130,18279290
+2024-12-16,3ACC,Solar,AUTOGENERADOR,No Despachado Centralmente,11740,3000,3000
+2021-08-20,NTB1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,CCN1,Hidraulica,Hidraulica,No Despachado Centralmente,64646,63900,63900
+2021-08-20,2UPF,Hidraulica,Hidraulica,No Despachado Centralmente,329424.94,336000,336000
+2021-08-20,SLVJ,Hidraulica,Hidraulica,Despachado Centralmente,4128678.5,4140000,4140000
+2021-08-20,IRG1,Cogenerador,COGENERADOR,No Despachado Centralmente,360244.31,360000,360000
+2021-08-20,3C3X,Termica,AUTOGENERADOR,No Despachado Centralmente,2094.24,4800,4800
+2021-08-20,IQU2,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,TPD1,Termica,Termica,No Despachado Centralmente,13522.74,90000,90000
+2021-08-20,LTSJ,Hidraulica,Hidraulica,Despachado Centralmente,5494829.5,7344000,5508000
+2021-08-20,CUC1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1001660.38,715240,840000
+2021-08-20,NQU1,Hidraulica,Hidraulica,No Despachado Centralmente,300997.41,325000,325000
+2021-08-20,2T7D,Hidraulica,Hidraulica,No Despachado Centralmente,88269.16,96000,96000
+2021-08-20,2S6U,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,153118.52,156000,156000
+2021-08-20,2YNA,Hidraulica,Hidraulica,No Despachado Centralmente,78784,74400,74400
+2021-08-20,INC1,Cogenerador,COGENERADOR,No Despachado Centralmente,531461.56,163200,163200
+2021-08-20,2U93,Termica,Termica,No Despachado Centralmente,454927.78,463200,463200
+2021-08-20,2TUT,Hidraulica,Hidraulica,No Despachado Centralmente,470182.41,432000,432000
+2021-08-20,NAV1,Hidraulica,Hidraulica,No Despachado Centralmente,92566.56,72000,72000
+2021-08-20,TGJ2,Termica,Termica,Despachado Centralmente,2647653.75,2680590,2680590
+2021-08-20,RCIO,Hidraulica,Hidraulica,No Despachado Centralmente,11567.53,7920,7920
+2021-08-20,MIR1,Hidraulica,Hidraulica,No Despachado Centralmente,45629.06,59040,59040
+2021-08-20,PRC3,Hidraulica,Hidraulica,Despachado Centralmente,13850760,14400000,14400000
+2021-08-20,TGJ1,Termica,Termica,Despachado Centralmente,0,3480000,0
+2021-08-20,JPR1,Eolica,Eolica,No Despachado Centralmente,26519.57,123300,123300
+2021-08-20,2S8N,Hidraulica,Hidraulica,No Despachado Centralmente,167591.63,120000,120000
+2021-08-20,MRL1,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,EPFV,Solar,Solar,Despachado Centralmente,389608.25,309000,381000
+2021-08-20,PPA3,Termica,Termica,Despachado Centralmente,260551.5,260000,260000
+2021-08-20,BYN1,Hidraulica,Hidraulica,No Despachado Centralmente,17607.57,14400,14400
+2021-08-20,2V5G,Hidraulica,Hidraulica,No Despachado Centralmente,81660.21,71600,71600
+2021-08-20,MNT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,TYP3,Termica,Termica,Despachado Centralmente,1127134.88,1192000,1192000
+2021-08-20,COE1,Hidraulica,Hidraulica,No Despachado Centralmente,16532.63,26400,26400
+2021-08-20,RCL1,Hidraulica,Hidraulica,No Despachado Centralmente,15044.76,0,0
+2021-08-20,SJN1,Hidraulica,Hidraulica,No Despachado Centralmente,0,28800,28800
+2021-08-20,2S6Q,Termica,AUTOGENERADOR,No Despachado Centralmente,30,12650,12650
+2021-08-20,PTA1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,PPA1,Termica,Termica,Despachado Centralmente,191446.7,187000,187000
+2021-08-20,PTC1,Hidraulica,Hidraulica,No Despachado Centralmente,24639,31200,31200
+2021-08-20,VNTB,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,TRM1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2021-08-20,SUV1,Hidraulica,Hidraulica,No Despachado Centralmente,146152.8,144000,144000
+2021-08-20,PTR1,Termica,Termica,No Despachado Centralmente,0,0,0
+2021-08-20,RFR1,Hidraulica,Hidraulica,No Despachado Centralmente,24145.53,24000,24000
+2021-08-20,AYR1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,298001,296800,296800
+2021-08-20,SNT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,SMI1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1201467.13,1056000,1120000
+2021-08-20,RGRN,Hidraulica,Hidraulica,No Despachado Centralmente,465831.75,456000,456000
+2021-08-20,TBQ3,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,2SDR,Hidraulica,Hidraulica,No Despachado Centralmente,332464,288000,288000
+2021-08-20,ASN1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,2VJS,Solar,Solar,No Despachado Centralmente,47914.98,47914.98,47914.98
+2021-08-20,HRD1,Hidraulica,Hidraulica,No Despachado Centralmente,311801.59,408000,408000
+2021-08-20,PPN1,Cogenerador,COGENERADOR,No Despachado Centralmente,0.5,0.5,0
+2021-08-20,PGUG,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2021-08-20,GEC3,Termica,Termica,Despachado Centralmente,732916.13,710280,710280
+2021-08-20,2R22,Hidraulica,Hidraulica,No Despachado Centralmente,434645.16,432000,432000
+2021-08-20,URA1,Hidraulica,Hidraulica,Despachado Centralmente,7528296.5,7488000,7488000
+2021-08-20,BSQ1,Hidraulica,Hidraulica,No Despachado Centralmente,45753.51,43200,43200
+2021-08-20,ALBG,Hidraulica,Hidraulica,Despachado Centralmente,6395611,6560000,6515000
+2021-08-20,TR2G,Solar,Solar,No Despachado Centralmente,105284.26,4320,4320
+2021-08-20,PRG2,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,HMO1,Hidraulica,Hidraulica,No Despachado Centralmente,458699.53,432000,432000
+2021-08-20,2V25,Termica,AUTOGENERADOR,No Despachado Centralmente,40622,12000,12000
+2021-08-20,INT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,3C3Z,Solar,Solar,No Despachado Centralmente,0,0,0
+2021-08-20,CTG3,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,CIP1,Cogenerador,COGENERADOR,No Despachado Centralmente,338048,392640,392640
+2021-08-20,STG1,Hidraulica,Hidraulica,No Despachado Centralmente,33711.37,46320,46320
+2021-08-20,2U1G,Hidraulica,Hidraulica,No Despachado Centralmente,48898.7,33600,33600
+2021-08-20,HMIN,Hidraulica,FILO DE AGUA,Despachado Centralmente,1281332.25,1320000,1320000
+2021-08-20,2UR5,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,3ADA,Termica,AUTOGENERADOR,No Despachado Centralmente,1528.26,0,0
+2021-08-20,2WC5,Hidraulica,Hidraulica,No Despachado Centralmente,167618.91,156000,156000
+2021-08-20,2YIR,Hidraulica,Hidraulica,No Despachado Centralmente,8641.56,5040,5040
+2021-08-20,CMN1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,151854.98,152000,152000
+2021-08-20,PRDO,Hidraulica,Hidraulica,Despachado Centralmente,1228571.75,1224000,1224000
+2021-08-20,2S6S,Termica,AUTOGENERADOR,No Despachado Centralmente,50.4,0,0
+2021-08-20,3AL6,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,0.88,0.88,0
+2021-08-20,OVJ1,Hidraulica,Hidraulica,No Despachado Centralmente,19958.97,19200,19200
+2021-08-20,USQ1,Hidraulica,Hidraulica,No Despachado Centralmente,25629.79,24000,24000
+2021-08-20,TBST,Termica,CICLO COMBINADO,Despachado Centralmente,10607433,10429120,10429120
+2021-08-20,2QEK,Hidraulica,FILO DE AGUA,Despachado Centralmente,315366.81,0,0
+2021-08-20,2S9L,Hidraulica,Hidraulica,No Despachado Centralmente,8908.71,0,0
+2021-08-20,2YQO,Termica,AUTOGENERADOR,No Despachado Centralmente,0,384000,384000
+2021-08-20,3AXV,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,28806,28806,0
+2021-08-20,TVL1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2021-08-20,RNG1,Hidraulica,Hidraulica,No Despachado Centralmente,163582.2,0,0
+2021-08-20,ZPA4,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,3AQP,Hidraulica,Hidraulica,No Despachado Centralmente,5282.64,19200,19200
+2021-08-20,SNS1,Hidraulica,Hidraulica,No Despachado Centralmente,442668.59,432000,432000
+2021-08-20,SOG1,Hidraulica,Hidraulica,Despachado Centralmente,19728482,19656000,19656000
+2021-08-20,3C4V,Termica,AUTOGENERADOR,No Despachado Centralmente,25512,25512,0
+2021-08-20,SBA1,Hidraulica,Hidraulica,No Despachado Centralmente,43556.77,43200,43200
+2021-08-20,LCS1,Hidraulica,Hidraulica,No Despachado Centralmente,55016.52,52800,52800
+2021-08-20,PRC2,Hidraulica,Hidraulica,Despachado Centralmente,5194229,3785661,4979550
+2021-08-20,3A44,Solar,Solar,No Despachado Centralmente,18271.8,17510,17510
+2021-08-20,PMR1,Hidraulica,Hidraulica,No Despachado Centralmente,14774.88,13200,13200
+2021-08-20,ILC1,Cogenerador,COGENERADOR,No Despachado Centralmente,11474.4,11474.4,12000
+2021-08-20,SFC1,Hidraulica,Hidraulica,No Despachado Centralmente,8164.59,5040,5040
+2021-08-20,2S9Q,Termica,Termica,No Despachado Centralmente,0,0,0
+2021-08-20,2SS2,Hidraulica,Hidraulica,No Despachado Centralmente,113940.2,100800,100800
+2021-08-20,CHVR,Hidraulica,Hidraulica,Despachado Centralmente,19413776,18339390,20397580
+2021-08-20,2QBW,Hidraulica,Hidraulica,No Despachado Centralmente,478135.81,477600,477600
+2021-08-20,2S8G,Termica,AUTOGENERADOR,No Despachado Centralmente,187.23,187.23,0
+2021-08-20,PLU1,Hidraulica,Hidraulica,No Despachado Centralmente,19057.83,16800,16800
+2021-08-20,TR3G,Solar,Solar,No Despachado Centralmente,103972.81,0,0
+2021-08-20,GQA1,Hidraulica,Hidraulica,No Despachado Centralmente,103494.84,104500,104500
+2021-08-20,CIS1,Cogenerador,COGENERADOR,No Despachado Centralmente,28181.34,18000,18000
+2021-08-20,TCD1,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,TYP4,Termica,Termica,Despachado Centralmente,1149404,1200000,1200000
+2021-08-20,PLYS,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2021-08-20,2V27,Termica,AUTOGENERADOR,No Despachado Centralmente,4087.38,9600,9600
+2021-08-20,GTRG,Hidraulica,Hidraulica,Despachado Centralmente,1119369.75,1089620,3042260
+2021-08-20,CHBG,Hidraulica,Hidraulica,Despachado Centralmente,8827463,8965000,8965000
+2021-08-20,2UPJ,Hidraulica,Hidraulica,No Despachado Centralmente,336593.69,336000,336000
+2021-08-20,SPY1,Hidraulica,Hidraulica,No Despachado Centralmente,35655,36000,36000
+2021-08-20,RMR1,Hidraulica,Hidraulica,No Despachado Centralmente,41408.7,42000,42000
+2021-08-20,RPD1,Hidraulica,Hidraulica,No Despachado Centralmente,467264,432000,432000
+2021-08-20,PRD4,Hidraulica,Hidraulica,No Despachado Centralmente,83803.18,72000,72000
+2021-08-20,ZPA2,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,2UPD,Hidraulica,Hidraulica,No Despachado Centralmente,335976.5,336000,336000
+2021-08-20,3AFQ,Hidraulica,Hidraulica,No Despachado Centralmente,21682.32,24000,24000
+2021-08-20,TUJ1,Hidraulica,Hidraulica,No Despachado Centralmente,474838.53,470400,470400
+2021-08-20,TFL1,Termica,CICLO COMBINADO,Despachado Centralmente,951076.38,927000,927000
+2021-08-20,TMB1,Termica,Termica,No Despachado Centralmente,0,0,0
+2021-08-20,SJOG,Hidraulica,Hidraulica,No Despachado Centralmente,7575.72,6020,6020
+2021-08-20,PST1,Hidraulica,Hidraulica,No Despachado Centralmente,16988.06,10800,10800
+2021-08-20,INZ1,Hidraulica,Hidraulica,No Despachado Centralmente,11170.16,10800,10800
+2021-08-20,JAGS,Hidraulica,Hidraulica,Despachado Centralmente,4027190,4080000,4080000
+2021-08-20,PPA4,Termica,Termica,Despachado Centralmente,843321.63,2302009,1550000
+2021-08-20,PRV1,Hidraulica,Hidraulica,No Despachado Centralmente,144313.83,114060,114060
+2021-08-20,IQU1,Hidraulica,Hidraulica,No Despachado Centralmente,51731.75,48000,48000
+2021-08-20,PTG1,Hidraulica,Hidraulica,No Despachado Centralmente,86770.8,24000,24000
+2021-08-20,TRN1,Termica,Termica,Despachado Centralmente,1128425,1140000,1140000
+2021-08-20,QUI1,Hidraulica,Hidraulica,Despachado Centralmente,7255315.5,6735160,7252280
+2021-08-20,RMYO,Hidraulica,Hidraulica,No Despachado Centralmente,305025.75,292110,292110
+2021-08-20,2UPH,Hidraulica,Hidraulica,No Despachado Centralmente,332726.03,336000,336000
+2021-08-20,CTG2,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,TBQ4,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,TYP2,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,GTPE,Hidraulica,Hidraulica,Despachado Centralmente,13323914,13440000,13440000
+2021-08-20,PIC1,Cogenerador,COGENERADOR,No Despachado Centralmente,1662,1662,0
+2021-08-20,RBB1,Hidraulica,Hidraulica,No Despachado Centralmente,88237.26,86400,86400
+2021-08-20,AFR1,Hidraulica,Hidraulica,No Despachado Centralmente,165425.95,174960,174960
+2021-08-20,PPA2,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,FLRD,Hidraulica,Hidraulica,No Despachado Centralmente,350112,384100,384100
+2021-08-20,LMR1,Hidraulica,Hidraulica,No Despachado Centralmente,437105.56,432000,432000
+2021-08-20,SLV1,Hidraulica,Hidraulica,No Despachado Centralmente,8499.2,8400,8400
+2021-08-20,GCC1,Hidraulica,Hidraulica,No Despachado Centralmente,19459.38,0,0
+2021-08-20,MNC1,Hidraulica,Hidraulica,No Despachado Centralmente,17343.67,16800,16800
+2021-08-20,3B4L,Solar,Solar,No Despachado Centralmente,28902.24,23930,23930
+2021-08-20,SJM1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,2U8Y,Termica,Termica,No Despachado Centralmente,448982.47,463200,463200
+2021-08-20,UNN1,Hidraulica,Hidraulica,No Despachado Centralmente,0,16800,16800
+2021-08-20,CRC1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,2TUV,Hidraulica,Hidraulica,No Despachado Centralmente,461055,432000,432000
+2021-08-20,ARG1,Termica,AUTOGENERADOR,No Despachado Centralmente,3020,0,0
+2021-08-20,2S8U,Hidraulica,Hidraulica,No Despachado Centralmente,43579.77,24000,24000
+2021-08-20,2S8I,Termica,AUTOGENERADOR,No Despachado Centralmente,12240,180000,180000
+2021-08-20,2UX3,Hidraulica,Hidraulica,No Despachado Centralmente,422331.19,391000,391000
+2021-08-20,VLT1,Hidraulica,Hidraulica,No Despachado Centralmente,159898.2,244800,244800
+2021-08-20,ALTG,Hidraulica,Hidraulica,No Despachado Centralmente,443124,390000,390000
+2021-08-20,TYP1,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,ESMR,Hidraulica,FILO DE AGUA,Despachado Centralmente,571395.06,338000,423000
+2021-08-20,PJR1,Hidraulica,Hidraulica,No Despachado Centralmente,227548.2,283200,283200
+2021-08-20,2T4P,Hidraulica,Hidraulica,No Despachado Centralmente,449947,477600,477600
+2021-08-20,2ZP9,Solar,Solar,No Despachado Centralmente,103594.24,4320,4320
+2021-08-20,2S78,Hidraulica,Hidraulica,No Despachado Centralmente,4174.32,7920,7920
+2021-08-20,2YWY,Termica,AUTOGENERADOR,No Despachado Centralmente,0,84000,84000
+2021-08-20,CTG1,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,2SW1,Hidraulica,Hidraulica,No Despachado Centralmente,353058.88,70000,70000
+2021-08-20,CLMG,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2021-08-20,ABJ1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,PRG1,Termica,Termica,Despachado Centralmente,1.09,0,0
+2021-08-20,2QRL,Hidraulica,Hidraulica,No Despachado Centralmente,16141.89,15600,15600
+2021-08-20,2SI1,Hidraulica,Hidraulica,No Despachado Centralmente,267850,336000,336000
+2021-08-20,SRA1,Hidraulica,Hidraulica,No Despachado Centralmente,19356.92,14400,14400
+2021-08-20,AMF1,Hidraulica,Hidraulica,No Despachado Centralmente,12841.26,12000,12000
+2021-08-20,2U91,Termica,Termica,No Despachado Centralmente,458613.53,463200,463200
+2021-08-20,CAS1,Cogenerador,COGENERADOR,No Despachado Centralmente,44021.7,72000,72000
+2021-08-20,3BZB,Solar,Solar,No Despachado Centralmente,58721.58,0,0
+2021-08-20,2WFN,Termica,Termica,No Despachado Centralmente,194850,237600,237600
+2021-08-20,2UP2,Cogenerador,COGENERADOR,No Despachado Centralmente,199663.2,93000,93000
+2021-08-20,HMLG,Hidraulica,Hidraulica,Despachado Centralmente,9509963,9504000,9504000
+2021-08-20,DVS1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1441074,20180,325780
+2021-08-20,TMS1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,BAR1,Hidraulica,Hidraulica,No Despachado Centralmente,166156.16,233280,233280
+2021-08-20,CPT1,Hidraulica,Hidraulica,No Despachado Centralmente,15707.23,16800,16800
+2021-08-20,2ZCF,Hidraulica,Hidraulica,No Despachado Centralmente,468761.53,336000,336000
+2021-08-20,GVIO,Hidraulica,Hidraulica,Despachado Centralmente,5788823.5,5055190,4945000
+2021-08-20,RGR1,Hidraulica,Hidraulica,No Despachado Centralmente,6277.08,7200,7200
+2021-08-20,CLL1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1418134.75,1680000,1440000
+2021-08-20,SNC1,Hidraulica,Hidraulica,No Despachado Centralmente,34606.07,31200,31200
+2021-08-20,2SXQ,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
+2021-08-20,BLL3,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,SNCR,Hidraulica,Hidraulica,Despachado Centralmente,20758004,21518000,21518000
+2021-08-20,JBV1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,2U5P,Termica,Termica,No Despachado Centralmente,0,0,0
+2021-08-20,2TYI,Solar,AUTOGENERADOR,No Despachado Centralmente,20403.6,20403.6,20403.6
+2021-08-20,MOY1,Hidraulica,FILO DE AGUA,Despachado Centralmente,0,0,0
+2021-08-20,CSC1,Hidraulica,Hidraulica,No Despachado Centralmente,30304.56,28800,28800
+2021-08-20,PNC1,Cogenerador,COGENERADOR,No Despachado Centralmente,360144,360000,360000
+2021-08-20,TSR1,Termica,CICLO COMBINADO,Despachado Centralmente,3256039.75,3254000,3254000
+2021-08-20,TDR1,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,TYP5,Termica,Termica,Despachado Centralmente,1173542.13,1200000,1200000
+2021-08-20,GCA1,Hidraulica,Hidraulica,No Despachado Centralmente,231507.86,228000,228000
+2021-08-20,ZPA3,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,2S8S,Termica,Termica,No Despachado Centralmente,3778.68,6000,6000
+2021-08-20,3ACC,Solar,AUTOGENERADOR,No Despachado Centralmente,14845.35,19000,19000
+2021-08-20,RFR2,Hidraulica,Hidraulica,No Despachado Centralmente,114673.2,106000,106000
+2021-08-20,AMA1,Hidraulica,Hidraulica,No Despachado Centralmente,414594,336000,336000
+2021-08-20,LPLO,Hidraulica,Hidraulica,No Despachado Centralmente,18760.26,19200,19200
+2021-08-20,CLDR,Hidraulica,Hidraulica,No Despachado Centralmente,291193.41,144000,144000
+2021-08-20,AMR1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,CMP2,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,PLM1,Hidraulica,Hidraulica,No Despachado Centralmente,217253.38,216000,216000
+2021-08-20,BLM1,Hidraulica,Hidraulica,No Despachado Centralmente,26262.07,24000,24000
+2021-08-20,VNTA,Hidraulica,Hidraulica,No Despachado Centralmente,58877.97,59760,59760
+2021-08-20,SNFR,Hidraulica,FILO DE AGUA,Despachado Centralmente,960938.5,630000,720000
+2021-08-20,2QV2,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2021-08-20,2T1L,Hidraulica,Hidraulica,No Despachado Centralmente,445704.88,476640,476640
+2021-08-20,LBR1,Hidraulica,Hidraulica,No Despachado Centralmente,32483.28,72000,72000
+2021-08-20,MND1,Hidraulica,Hidraulica,No Despachado Centralmente,9470.4,9470.4,0
+2021-08-20,TEC1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2021-08-20,NIM1,Hidraulica,Hidraulica,No Despachado Centralmente,121473.9,106000,106000
+2021-08-20,RPL1,Cogenerador,COGENERADOR,No Despachado Centralmente,2150.4,384000,384000
+2021-08-20,TSJ2,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,TFL4,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2021-08-20,INS1,Hidraulica,Hidraulica,No Despachado Centralmente,395070.72,384000,384000
+2021-08-20,TCD2,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,TSJ1,Termica,Termica,Despachado Centralmente,1239963.38,1220000,1220000
+2021-08-20,GE32,Termica,Termica,Despachado Centralmente,260632.44,250000,250000
+2021-08-20,2ZHY,Solar,Solar,No Despachado Centralmente,33078.83,25000,25000
+2021-08-20,2XXR,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,0,0,0
+2021-08-20,ZPA5,Termica,Termica,Despachado Centralmente,0,0,0
+2021-08-20,CGM1,Cogenerador,COGENERADOR,No Despachado Centralmente,444832,456000,456000
+2021-08-20,2YB9,Termica,AUTOGENERADOR,No Despachado Centralmente,32083.03,24000,24000
+2021-08-20,CQT1,Hidraulica,Hidraulica,No Despachado Centralmente,466926.44,456000,456000
+2021-08-20,CUR1,Hidraulica,Hidraulica,No Despachado Centralmente,3239.94,14400,14400
+2023-12-20,CIS1,Cogenerador,COGENERADOR,No Despachado Centralmente,15952.53,7000,7000
+2023-12-20,3GI6,Solar,Solar,No Despachado Centralmente,615.61,590,590
+2023-12-20,3EBN,Solar,Solar,No Despachado Centralmente,51395.85,62000,62000
+2023-12-20,UNN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,13800,13800
+2023-12-20,TDR1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-12-20,JBV1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-12-20,3ENE,Solar,Solar,No Despachado Centralmente,132605.63,106000,106000
+2023-12-20,PTR1,Termica,Termica,No Despachado Centralmente,0,0,0
+2023-12-20,2QV2,Hidraulica,Hidraulica,No Despachado Centralmente,206942.41,194000,194000
+2023-12-20,3J2H,Solar,Solar,No Despachado Centralmente,52033.9,44030,44030
+2023-12-20,SLVJ,Hidraulica,Hidraulica,Despachado Centralmente,1010073.31,1020000,1020000
+2023-12-20,2UPF,Hidraulica,Hidraulica,No Despachado Centralmente,280512.78,288000,288000
+2023-12-20,NAV1,Hidraulica,Hidraulica,No Despachado Centralmente,59015,95000,95000
+2023-12-20,2S8S,Termica,Termica,No Despachado Centralmente,16630.68,6000,6000
+2023-12-20,EPFV,Solar,Solar,Despachado Centralmente,444564.09,519000,405000
+2023-12-20,2S8N,Hidraulica,Hidraulica,No Despachado Centralmente,156525.23,120000,120000
+2023-12-20,VLT1,Hidraulica,Hidraulica,No Despachado Centralmente,141878,168000,168000
+2023-12-20,MOY1,Hidraulica,FILO DE AGUA,Despachado Centralmente,1209587.13,1800000,1146000
+2023-12-20,3B4L,Solar,Solar,No Despachado Centralmente,21405.24,21220,21220
+2023-12-20,3FCF,Solar,Solar,No Despachado Centralmente,48759.42,44000,44000
+2023-12-20,3HG7,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,42.59,240,240
+2023-12-20,RFR1,Hidraulica,Hidraulica,No Despachado Centralmente,24288.53,24000,24000
+2023-12-20,MND1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,9086.49,10080,10080
+2023-12-20,3J4D,Solar,Solar,No Despachado Centralmente,66563.49,79160,79160
+2023-12-20,PTC1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-12-20,CMP2,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-12-20,2S6Q,Termica,AUTOGENERADOR,No Despachado Centralmente,1161.6,0,0
+2023-12-20,3HF5,Solar,Solar,Despachado Centralmente,529631.94,646000,646000
+2023-12-20,PJR1,Hidraulica,Hidraulica,No Despachado Centralmente,110864.6,120000,120000
+2023-12-20,LBR1,Hidraulica,Hidraulica,No Despachado Centralmente,38408.44,24000,24000
+2023-12-20,CUR1,Hidraulica,Hidraulica,No Despachado Centralmente,6464.5,7200,7200
+2023-12-20,SJOG,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,6425.1,6260,6260
+2023-12-20,MRL1,Termica,Termica,Despachado Centralmente,1752083.5,0,1720000
+2023-12-20,SNFR,Hidraulica,FILO DE AGUA,Despachado Centralmente,873775.5,720000,720000
+2023-12-20,3EV1,Solar,Solar,No Despachado Centralmente,61053.17,28000,28000
+2023-12-20,2UX3,Hidraulica,Hidraulica,No Despachado Centralmente,152843,156000,156000
+2023-12-20,2ZHY,Solar,Solar,No Despachado Centralmente,34513.71,37000,37000
+2023-12-20,2SI1,Hidraulica,Hidraulica,No Despachado Centralmente,153746,264000,264000
+2023-12-20,2V27,Termica,AUTOGENERADOR,No Despachado Centralmente,2.87,9600,9600
+2023-12-20,TR3G,Solar,Solar,No Despachado Centralmente,153073.19,158870,158870
+2023-12-20,RPL1,Cogenerador,COGENERADOR,No Despachado Centralmente,206174.41,384000,384000
+2023-12-20,HRD1,Hidraulica,Hidraulica,No Despachado Centralmente,342210,288000,288000
+2023-12-20,2T1L,Hidraulica,Hidraulica,No Despachado Centralmente,154820.48,223440,223440
+2023-12-20,3J4V,Solar,Solar,No Despachado Centralmente,0,0,0
+2023-12-20,IQU1,Hidraulica,Hidraulica,No Despachado Centralmente,32036.31,24000,24000
+2023-12-20,3GVI,Solar,Solar,No Despachado Centralmente,142755.23,72000,72000
+2023-12-20,SJM1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-12-20,2S8U,Hidraulica,Hidraulica,No Despachado Centralmente,12746.8,0,0
+2023-12-20,2SXQ,Cogenerador,COGENERADOR,No Despachado Centralmente,290213.84,360000,360000
+2023-12-20,3C3X,Termica,AUTOGENERADOR,No Despachado Centralmente,418.08,4800,4800
+2023-12-20,3HWM,Solar,Solar,No Despachado Centralmente,66282.26,0,0
+2023-12-20,2VJS,Solar,Solar,No Despachado Centralmente,30995.46,35000,35000
+2023-12-20,TFL1,Termica,CICLO COMBINADO,Despachado Centralmente,326223.88,315000,315000
+2023-12-20,3GJU,Termica,AUTOGENERADOR,No Despachado Centralmente,103917.34,12000,12000
+2023-12-20,2UPJ,Hidraulica,Hidraulica,No Despachado Centralmente,304314.66,336000,336000
+2023-12-20,SBA1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-12-20,MIR1,Hidraulica,Hidraulica,No Despachado Centralmente,54454.85,54960,54960
+2023-12-20,CQT1,Hidraulica,Hidraulica,No Despachado Centralmente,407985.28,456000,456000
+2023-12-20,2ZCF,Hidraulica,Hidraulica,No Despachado Centralmente,291510.38,296000,296000
+2023-12-20,RCL1,Hidraulica,Hidraulica,No Despachado Centralmente,8783.82,0,0
+2023-12-20,2YWY,Termica,AUTOGENERADOR,No Despachado Centralmente,73325.51,84000,84000
+2023-12-20,HMO1,Hidraulica,Hidraulica,No Despachado Centralmente,266194.47,224000,224000
+2023-12-20,3DDT,Solar,Solar,Despachado Centralmente,812482.88,852000,852000
+2023-12-20,PPA4,Termica,Termica,Despachado Centralmente,3930153.75,3171930,3689232
+2023-12-20,QUI1,Hidraulica,Hidraulica,Despachado Centralmente,3934279.75,3429140,3473080
+2023-12-20,2S9Q,Termica,Termica,No Despachado Centralmente,0,0,0
+2023-12-20,VNTA,Hidraulica,Hidraulica,No Despachado Centralmente,26868.32,38880,38880
+2023-12-20,2YB9,Termica,AUTOGENERADOR,No Despachado Centralmente,41564.9,24000,24000
+2023-12-20,SPY1,Hidraulica,Hidraulica,No Despachado Centralmente,34364.1,33600,33600
+2023-12-20,AMR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-12-20,SJN1,Hidraulica,Hidraulica,No Despachado Centralmente,37620,60000,60000
+2023-12-20,CHVR,Hidraulica,Hidraulica,Despachado Centralmente,2291332.25,1856080,3061910
+2023-12-20,3J1J,Solar,Solar,No Despachado Centralmente,83.07,86600,86600
+2023-12-20,3F5N,Solar,AUTOGENERADOR,No Despachado Centralmente,0,880,880
+2023-12-20,TMS1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,18509.82,19200,19200
+2023-12-20,SOG1,Hidraulica,Hidraulica,Despachado Centralmente,2881685.75,2880000,2880000
+2023-12-20,2R22,Hidraulica,Hidraulica,No Despachado Centralmente,376969.25,432000,432000
+2023-12-20,3C3Z,Solar,Solar,No Despachado Centralmente,114708.43,133000,133000
+2023-12-20,CTG2,Termica,Termica,Despachado Centralmente,0,0,0
+2023-12-20,TPD1,Termica,Termica,No Despachado Centralmente,72249.5,90000,90000
+2023-12-20,SNS1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-12-20,GTRG,Hidraulica,Hidraulica,Despachado Centralmente,363230,1322000,1341000
+2023-12-20,PRG2,Termica,Termica,Despachado Centralmente,96127,104000,107000
+2023-12-20,PPA2,Termica,Termica,Despachado Centralmente,0,1418000,0
+2023-12-20,CTG1,Termica,Termica,Despachado Centralmente,0,0,0
+2023-12-20,PRG1,Termica,Termica,Despachado Centralmente,1043307,1038000,1038500
+2023-12-20,AMF1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,16355.24,14880,14880
+2023-12-20,GYPO,Solar,Solar,Despachado Centralmente,422081.06,409000,409000
+2023-12-20,3INX,Solar,Solar,Despachado Centralmente,123746.6,143000,143000
+2023-12-20,GCA1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-12-20,2U91,Termica,Termica,No Despachado Centralmente,467512.75,463200,463200
+2023-12-20,3EV3,Solar,Solar,No Despachado Centralmente,60886.82,29000,29000
+2023-12-20,3HS9,Solar,AUTOGENERADOR,No Despachado Centralmente,10639.65,0,0
+2023-12-20,CTG3,Termica,Termica,Despachado Centralmente,0,0,0
+2023-12-20,INC1,Cogenerador,COGENERADOR,No Despachado Centralmente,744025.63,672000,672000
+2023-12-20,PIC1,Cogenerador,COGENERADOR,No Despachado Centralmente,19128,19128,0
+2023-12-20,VNTB,Hidraulica,Hidraulica,No Despachado Centralmente,46830.96,43680,43680
+2023-12-20,CLMG,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2023-12-20,SLV1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,7989.21,7200,7200
+2023-12-20,PRC3,Hidraulica,Hidraulica,Despachado Centralmente,16672059,15490130,16787836
+2023-12-20,JAGS,Hidraulica,Hidraulica,Despachado Centralmente,34986.79,0,0
+2023-12-20,3EFY,Solar,Solar,No Despachado Centralmente,158578.05,141180,141180
+2023-12-20,PRD4,Hidraulica,Hidraulica,No Despachado Centralmente,134736.59,120000,120000
+2023-12-20,3HDE,Hidraulica,Hidraulica,No Despachado Centralmente,129630.98,0,0
+2023-12-20,PRC2,Hidraulica,Hidraulica,Despachado Centralmente,9085322,9720000,9315000
+2023-12-20,BYN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,14400,14400
+2023-12-20,3J85,Solar,Solar,No Despachado Centralmente,0,0,0
+2023-12-20,CLDR,Hidraulica,Hidraulica,No Despachado Centralmente,149397.33,196000,196000
+2023-12-20,PES1,Hidraulica,Hidraulica,Despachado Centralmente,25883644,26780000,26780000
+2023-12-20,SNC1,Hidraulica,Hidraulica,No Despachado Centralmente,21248.33,36000,36000
+2023-12-20,3HG9,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,12.89,0,0
+2023-12-20,PLM1,Hidraulica,Hidraulica,No Despachado Centralmente,204010.44,108000,108000
+2023-12-20,PPA3,Termica,Termica,Despachado Centralmente,1490043.5,1373000,1458000
+2023-12-20,FLRD,Hidraulica,Hidraulica,No Despachado Centralmente,227601,198000,198000
+2023-12-20,3HLD,Solar,Solar,No Despachado Centralmente,60525.51,70840,70840
+2023-12-20,MNT1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-12-20,BLL3,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-12-20,RGR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,10279.2,7200,7200
+2023-12-20,3GRD,Solar,Solar,No Despachado Centralmente,64837.25,30000,30000
+2023-12-20,TYP4,Termica,Termica,Despachado Centralmente,1107303.75,1152000,1152000
+2023-12-20,ZPA4,Termica,Termica,Despachado Centralmente,1052773.13,1178603,1059500
+2023-12-20,ZPA2,Termica,Termica,Despachado Centralmente,0,525990,0
+2023-12-20,3DSO,Solar,Solar,No Despachado Centralmente,38372.11,55900,55900
+2023-12-20,3E7C,Solar,AUTOGENERADOR,No Despachado Centralmente,16815.83,8000,8000
+2023-12-20,SNT1,Hidraulica,Hidraulica,No Despachado Centralmente,113044.77,115200,115200
+2023-12-20,PRV1,Hidraulica,Hidraulica,No Despachado Centralmente,136055.67,117600,117600
+2023-12-20,AFR1,Hidraulica,Hidraulica,No Despachado Centralmente,146641.2,174960,174960
+2023-12-20,2XXR,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,10145.46,0,0
+2023-12-20,TYP5,Termica,Termica,Despachado Centralmente,0,0,0
+2023-12-20,AYR1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,314391,256800,256800
+2023-12-20,GTPE,Hidraulica,Hidraulica,Despachado Centralmente,8113680,7998000,7998000
+2023-12-20,PNC1,Cogenerador,COGENERADOR,No Despachado Centralmente,360180,384000,384000
+2023-12-20,2UPH,Hidraulica,Hidraulica,No Despachado Centralmente,312532.69,336000,336000
+2023-12-20,3BZB,Solar,Solar,No Despachado Centralmente,31486.63,9000,9000
+2023-12-20,TGJ2,Termica,Termica,Despachado Centralmente,2595477.75,2551799,2661000
+2023-12-20,3HWK,Solar,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,2771.89,2771.89,0
+2023-12-20,TSR1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-12-20,MNC1,Hidraulica,Hidraulica,No Despachado Centralmente,18330.61,16800,16800
+2023-12-20,3J4T,Solar,Solar,No Despachado Centralmente,0,78550,78550
+2023-12-20,3HBP,Solar,Solar,No Despachado Centralmente,121325.51,146000,146000
+2023-12-20,3CSH,Solar,Solar,No Despachado Centralmente,54633.84,46790,46790
+2023-12-20,PRDO,Hidraulica,Hidraulica,Despachado Centralmente,454237.56,24000,427000
+2023-12-20,2SW1,Hidraulica,Hidraulica,No Despachado Centralmente,90511.18,80000,80000
+2023-12-20,COE1,Hidraulica,Hidraulica,No Despachado Centralmente,26870.06,26400,26400
+2023-12-20,3ENA,Termica,Termica,Despachado Centralmente,3949004.25,3517000,4026000
+2023-12-20,2YIR,Hidraulica,Hidraulica,No Despachado Centralmente,9226.45,5040,5040
+2023-12-20,2U8Y,Termica,Termica,No Despachado Centralmente,463380.94,463200,463200
+2023-12-20,BLM1,Hidraulica,Hidraulica,No Despachado Centralmente,49727.52,72000,72000
+2023-12-20,2S6S,Termica,AUTOGENERADOR,No Despachado Centralmente,91449.6,89000,89000
+2023-12-20,SFC1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,4981.88,360,360
+2023-12-20,ZPA3,Termica,Termica,Despachado Centralmente,829109.69,800000,832000
+2023-12-20,LCS1,Hidraulica,Hidraulica,No Despachado Centralmente,34566.84,45600,45600
+2023-12-20,IQU2,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-12-20,3EP6,Solar,AUTOGENERADOR,No Despachado Centralmente,8493.1,2000,2000
+2023-12-20,INS1,Hidraulica,Hidraulica,No Despachado Centralmente,300639.78,264000,264000
+2023-12-20,3AL6,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,33.85,33.85,0
+2023-12-20,TYP3,Termica,Termica,Despachado Centralmente,1109104.75,1158000,1158000
+2023-12-20,3EXB,Solar,Solar,No Despachado Centralmente,64439.68,38000,38000
+2023-12-20,CGM1,Cogenerador,COGENERADOR,No Despachado Centralmente,277144,323000,323000
+2023-12-20,GE32,Termica,Termica,Despachado Centralmente,6271026.5,5789765,6289500
+2023-12-20,3ED1,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-12-20,IRG1,Cogenerador,COGENERADOR,No Despachado Centralmente,399454.34,360000,360000
+2023-12-20,AMA1,Hidraulica,Hidraulica,No Despachado Centralmente,8664.22,153000,153000
+2023-12-20,PMR1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,12845.04,15760,15760
+2023-12-20,2UR5,Hidraulica,Hidraulica,No Despachado Centralmente,10164.1,13200,13200
+2023-12-20,USQ1,Hidraulica,Hidraulica,No Despachado Centralmente,26406.17,24000,24000
+2023-12-20,TCBE,Termica,Termica,Despachado Centralmente,0,0,0
+2023-12-20,2S78,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,3579.69,4370,4370
+2023-12-20,3IS2,Solar,Solar,No Despachado Centralmente,6022.32,12900,12900
+2023-12-20,SMI1,Hidraulica,FILO DE AGUA,Despachado Centralmente,652787.75,1200000,618000
+2023-12-20,CAS1,Cogenerador,COGENERADOR,No Despachado Centralmente,51279.3,72000,72000
+2023-12-20,CIP1,Cogenerador,COGENERADOR,No Despachado Centralmente,344248,312000,312000
+2023-12-20,TSJ2,Termica,Termica,Despachado Centralmente,4081266.5,4080000,4080000
+2023-12-20,CCN1,Hidraulica,Hidraulica,No Despachado Centralmente,49891,63900,63900
+2023-12-20,3F5L,Solar,AUTOGENERADOR,No Despachado Centralmente,2184.88,3560,3560
+2023-12-20,3GFQ,Solar,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,15.18,15.18,0
+2023-12-20,3GVK,Solar,Solar,No Despachado Centralmente,145168.23,75000,75000
+2023-12-20,RGRN,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-12-20,3J4R,Solar,Solar,No Despachado Centralmente,0,78550,78550
+2023-12-20,2QEK,Hidraulica,FILO DE AGUA,Despachado Centralmente,47207.97,840000,45000
+2023-12-20,2U1G,Hidraulica,Hidraulica,No Despachado Centralmente,29689.1,33600,33600
+2023-12-20,3HDG,Hidraulica,Hidraulica,No Despachado Centralmente,119925.31,0,0
+2023-12-20,3HYG,Solar,GENERADOR DISTRIBUIDO,No Despachado Centralmente,5154.73,7540,7540
+2023-12-20,2QBW,Hidraulica,Hidraulica,No Despachado Centralmente,245777.14,321600,321600
+2023-12-20,LTSJ,Hidraulica,Hidraulica,Despachado Centralmente,0,0,0
+2023-12-20,TSJ1,Termica,Termica,Despachado Centralmente,3967230.5,3960000,3960000
+2023-12-20,CRC1,Hidraulica,Hidraulica,No Despachado Centralmente,88797.76,90000,90000
+2023-12-20,2T7D,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,7147.06,28750,28750
+2023-12-20,2TUT,Hidraulica,Hidraulica,No Despachado Centralmente,284735.41,288000,288000
+2023-12-20,3HF7,Solar,Solar,No Despachado Centralmente,126807.89,0,0
+2023-12-20,BAR1,Hidraulica,Hidraulica,No Despachado Centralmente,299741.81,318240,318240
+2023-12-20,STG1,Hidraulica,Hidraulica,No Despachado Centralmente,25979.57,30960,30960
+2023-12-20,3HE8,Solar,AUTOGENERADOR,No Despachado Centralmente,4658.4,0,0
+2023-12-20,3IQA,Solar,Solar,Despachado Centralmente,128184.81,350000,350000
+2023-12-20,OVJ1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,13906.26,19200,19200
+2023-12-20,3AQP,Hidraulica,Hidraulica,No Despachado Centralmente,5874.88,4800,4800
+2023-12-20,2SDR,Hidraulica,Hidraulica,No Despachado Centralmente,156473,144000,144000
+2023-12-20,TCDT,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-12-20,2YNA,Hidraulica,Hidraulica,No Despachado Centralmente,43632,74400,74400
+2023-12-20,ABJ1,Hidraulica,Hidraulica,No Despachado Centralmente,38247,37200,37200
+2023-12-20,GCC1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,19945.61,20640,20640
+2023-12-20,LPLO,Hidraulica,Hidraulica,No Despachado Centralmente,10502.94,13920,13920
+2023-12-20,2U93,Termica,Termica,No Despachado Centralmente,459210.88,463200,463200
+2023-12-20,3AFQ,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,16129.74,24000,24000
+2023-12-20,RCIO,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,11231.96,12480,12480
+2023-12-20,NIM1,Hidraulica,Hidraulica,No Despachado Centralmente,87482.1,48000,48000
+2023-12-20,TVL1,Termica,CICLO COMBINADO,Despachado Centralmente,1434449.13,1729000,1861170
+2023-12-20,2WC5,Hidraulica,Hidraulica,No Despachado Centralmente,25302.5,48000,48000
+2023-12-20,RMR1,Hidraulica,Hidraulica,No Despachado Centralmente,31372.66,32000,32000
+2023-12-20,CPT1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,16800,16800
+2023-12-20,TGJ1,Termica,Termica,Despachado Centralmente,3350845,2739000,3255428
+2023-12-20,2S6U,Hidraulica,AUTOGENERADOR,No Despachado Centralmente,156290.88,156000,156000
+2023-12-20,PTA1,Hidraulica,Hidraulica,No Despachado Centralmente,2990.59,0,0
+2023-12-20,PTG1,Hidraulica,Hidraulica,No Despachado Centralmente,12773.4,12000,12000
+2023-12-20,TYP1,Termica,Termica,Despachado Centralmente,422126.16,192000,192000
+2023-12-20,PLU1,Hidraulica,Hidraulica,No Despachado Centralmente,16914.81,16800,16800
+2023-12-20,3EE4,Eolica,Eolica,No Despachado Centralmente,181659.64,166620,166620
+2023-12-20,CUC1,Hidraulica,FILO DE AGUA,Despachado Centralmente,699599.75,1344000,676000
+2023-12-20,3HF9,Solar,Solar,No Despachado Centralmente,125457.84,0,0
+2023-12-20,TYP2,Termica,Termica,Despachado Centralmente,676604.06,672000,672000
+2023-12-20,SNCR,Hidraulica,Hidraulica,Despachado Centralmente,27610472,29703000,27998000
+2023-12-20,3DXJ,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,10457.04,10350,10350
+2023-12-20,2SS2,Hidraulica,Hidraulica,No Despachado Centralmente,42884.6,48000,48000
+2023-12-20,RMYO,Hidraulica,Hidraulica,No Despachado Centralmente,61169.09,41400,41400
+2023-12-20,PLYS,Hidraulica,Hidraulica,Despachado Centralmente,461420,1242000,828000
+2023-12-20,2UP2,Cogenerador,COGENERADOR,No Despachado Centralmente,181702.8,172000,172000
+2023-12-20,3A44,Solar,Solar,No Despachado Centralmente,7558.8,17510,17510
+2023-12-20,ARG1,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-12-20,3AXV,Termica,AUTOGENERADOR PEQUEÑA ESCALA,No Despachado Centralmente,26947.8,26947.8,0
+2023-12-20,TEC1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-12-20,LMR1,Hidraulica,Hidraulica,No Despachado Centralmente,425558.31,432000,432000
+2023-12-20,INT1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-12-20,3EDL,Solar,Solar,No Despachado Centralmente,142680.8,136820,136820
+2023-12-20,3GSF,Solar,AUTOGENERADOR,No Despachado Centralmente,10308,12000,12000
+2023-12-20,CSC1,Hidraulica,Hidraulica,No Despachado Centralmente,47325.47,43200,43200
+2023-12-20,2TUV,Hidraulica,Hidraulica,No Despachado Centralmente,279275.59,288000,288000
+2023-12-20,URA1,Hidraulica,Hidraulica,Despachado Centralmente,2396754.5,2752000,2752000
+2023-12-20,3ADA,Termica,AUTOGENERADOR,No Despachado Centralmente,5633.46,8360,8360
+2023-12-20,BSQ1,Hidraulica,Hidraulica,No Despachado Centralmente,18236.46,20000,20000
+2023-12-20,2V5G,Hidraulica,Hidraulica,No Despachado Centralmente,36040.5,37200,37200
+2023-12-20,3GPZ,Solar,Solar,No Despachado Centralmente,55994.02,32000,32000
+2023-12-20,GVIO,Hidraulica,Hidraulica,Despachado Centralmente,16928590,6504990,11068919
+2023-12-20,TBQ3,Termica,Termica,Despachado Centralmente,0,0,0
+2023-12-20,2T4P,Hidraulica,Hidraulica,No Despachado Centralmente,145556.09,227280,227280
+2023-12-20,SRA1,Hidraulica,Hidraulica,No Despachado Centralmente,0,0,0
+2023-12-20,2WFN,Termica,Termica,No Despachado Centralmente,167544,120000,120000
+2023-12-20,PGUG,Hidraulica,Hidraulica,Despachado Centralmente,14375577,14389140,14400000
+2023-12-20,3GJQ,Solar,Solar,No Despachado Centralmente,20983.94,23800,23800
+2023-12-20,3HBN,Solar,Solar,No Despachado Centralmente,58608.67,71000,71000
+2023-12-20,HMLG,Hidraulica,Hidraulica,Despachado Centralmente,799610.81,792000,792000
+2023-12-20,3E9I,Hidraulica,Hidraulica,No Despachado Centralmente,87297.92,84000,84000
+2023-12-20,TFL4,Termica,CICLO COMBINADO,Despachado Centralmente,9470153,8212100,9405300
+2023-12-20,INZ1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,12728.79,9600,9600
+2023-12-20,3EXH,Eolica,Eolica,No Despachado Centralmente,147783.02,124420,124420
+2023-12-20,TRM1,Termica,CICLO COMBINADO,Despachado Centralmente,0,0,0
+2023-12-20,2S8I,Termica,AUTOGENERADOR,No Despachado Centralmente,83280,180000,180000
+2023-12-20,3J2B,Solar,Solar,No Despachado Centralmente,34199.41,0,0
+2023-12-20,3E98,Solar,AUTOGENERADOR,No Despachado Centralmente,1623,7200,7200
+2023-12-20,3C4V,Termica,AUTOGENERADOR,No Despachado Centralmente,48048,24000,24000
+2023-12-20,TBQ4,Termica,Termica,Despachado Centralmente,0,0,0
+2023-12-20,JPR1,Eolica,Eolica,No Despachado Centralmente,0,0,0
+2023-12-20,ESMR,Hidraulica,FILO DE AGUA,Despachado Centralmente,703860,672000,672000
+2023-12-20,ASN1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,10467.13,9600,9600
+2023-12-20,ALBG,Hidraulica,Hidraulica,Despachado Centralmente,4313221,7344000,4584000
+2023-12-20,3IRX,Solar,Solar,Despachado Centralmente,351327.69,579000,579000
+2023-12-20,TUJ1,Hidraulica,Hidraulica,No Despachado Centralmente,94076.33,94400,94400
+2023-12-20,RBB1,Hidraulica,Hidraulica,No Despachado Centralmente,62746.82,62400,62400
+2023-12-20,2ZP9,Solar,Solar,No Despachado Centralmente,145924.77,158870,158870
+2023-12-20,GQA1,Hidraulica,Hidraulica,No Despachado Centralmente,97605.99,117360,117360
+2023-12-20,2V25,Termica,AUTOGENERADOR,No Despachado Centralmente,43362,12000,12000
+2023-12-20,TMB1,Termica,Termica,No Despachado Centralmente,85799,72000,72000
+2023-12-20,NTB1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,0,0
+2023-12-20,ZPA5,Termica,Termica,Despachado Centralmente,978049.75,1015984,984286
+2023-12-20,NQU1,Hidraulica,Hidraulica,No Despachado Centralmente,398719.19,336000,336000
+2023-12-20,RFR2,Hidraulica,Hidraulica,No Despachado Centralmente,75369.6,78000,78000
+2023-12-20,3IZ6,Solar,Solar,Despachado Centralmente,228429.2,279000,279000
+2023-12-20,2S9L,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,0,10800,10800
+2023-12-20,2UPD,Hidraulica,Hidraulica,No Despachado Centralmente,255411.23,336000,336000
+2023-12-20,GEC3,Termica,Termica,Despachado Centralmente,2239880.25,3936000,3936000
+2023-12-20,PST1,Hidraulica,GENERADOR DISTRIBUIDO,No Despachado Centralmente,13078.17,14640,14640
+2023-12-20,PPA1,Termica,Termica,Despachado Centralmente,672545,626000,660000
+2023-12-20,2S8G,Termica,AUTOGENERADOR,No Despachado Centralmente,0,0,0
+2023-12-20,3FCD,Solar,AUTOGENERADOR,No Despachado Centralmente,6364.87,0,0
+2023-12-20,3IRZ,Hidraulica,Hidraulica,No Despachado Centralmente,21012,16800,16800
+2023-12-20,2U5P,Termica,Termica,No Despachado Centralmente,274650.94,336000,336000
+2023-12-20,SUV1,Hidraulica,Hidraulica,No Despachado Centralmente,67914,52000,52000
+2023-12-20,DVS1,Hidraulica,FILO DE AGUA,Despachado Centralmente,3046940.25,3576000,3066000
+2023-12-20,CHBG,Hidraulica,Hidraulica,Despachado Centralmente,1509239.75,1500000,1500000
+2023-12-20,3CG9,Hidraulica,Hidraulica,No Despachado Centralmente,132568.09,240000,240000
+2023-12-20,PPN1,Cogenerador,COGENERADOR,No Despachado Centralmente,0,0,0
